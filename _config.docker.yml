@@ -1,0 +1,17 @@
+# Required when running from a Docker container
+host: 0.0.0.0
+force_polling: true
+
+# Speed it up a bit
+incremental: true
+
+# How much to render? These all default to false - But I want them all when I develop.
+show_drafts: true
+future: true
+unpublished: true
+
+# Make the machine talk to you
+verbose: true
+
+url: "http://localhost:4000"
+#baseurl: ""

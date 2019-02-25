@@ -1,8 +1,8 @@
 FROM jekyll/jekyll
 
-COPY Gemfile .
-COPY Gemfile.lock .
+COPY --chown=jekyll:jekyll Gemfile .
+COPY --chown=jekyll:jekyll Gemfile.lock .
 
+RUN gem install bundler
 RUN bundle install --quiet --clean
-
-CMD ["jekyll", "serve"]
+EXPOSE 4000
