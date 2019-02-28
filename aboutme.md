@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle:   
 ---
 
 I am a French researcher working in computer science applied to medical imaging. I have been living in the US for about one year. 
@@ -10,3 +9,4 @@ When I am not in front of my computer screen, running new machine learning exper
 Recently, I started to make my own cheese at home and without indrustrial ferments. I discovered a new fascinating world. With only one material (milk) and few parameters (temperature, humidity, time), you can end up with so many different results! Also, it is a lot easier than we could think.
 
 With this blog I would like to share my own experiments, and also my failures. Hopefully that will help a few other people and make others want to give it a try.
+
