@@ -3,7 +3,7 @@ services:
   site:
     environment:
       - JEKYLL_ENV=docker
-    command: bundle exec jekyll serve --config _config.yml,_config.docker.yml
+    command: bundle exec jekyll serve --watch --force_polling  --livereload --config _config.yml,_config.docker.yml
     image: beautiful-jekyll
     volumes:
       - .:/srv/jekyll

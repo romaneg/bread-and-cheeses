@@ -19,25 +19,24 @@ description: a blog about natural fermentation to make bread and cheese at home
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Cheese: "aboutme"
-  Bread: "aboutme"
-  Blog: "aboutme"
-  References: "aboutme"
+  Cheese: "cheese"
+  Bread: "bread"
+  About: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/figures/figure_bread-cheese_big.png"
+#avatar: "/img/figure_bread-cheese_big.png"
+show-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/logo_bread-cheese_big800.png"
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -50,16 +49,16 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+navbar-img: "img/logo_bread-cheese_big800.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+# page-img: "img/logo_bread-cheese_big800.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Romane G
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -142,7 +141,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 30
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title

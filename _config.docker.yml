@@ -1,6 +1,5 @@
 # Required when running from a Docker container
 host: 0.0.0.0
-force_polling: true
 
 # Speed it up a bit
 incremental: true
@@ -10,8 +9,9 @@ show_drafts: true
 future: true
 unpublished: true
 
+
 # Make the machine talk to you
 verbose: true
 
-url: "http://localhost:4000"
-#baseurl: ""
+url: "http://192.168.99.100:4000"
+baseurl: ""
