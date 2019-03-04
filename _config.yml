@@ -30,7 +30,7 @@ show-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/logo_bread-cheese_big800.png"
+title-img: "/assets/img/logo_bread-cheese_big800.png"
 
 # --- Background colour/image options --- #
 
