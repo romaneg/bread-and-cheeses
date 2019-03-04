@@ -2,6 +2,7 @@
 layout: page
 ---
 
+Under construction...
 
 <div class="posts-list">
   {% for post in site.posts %}
