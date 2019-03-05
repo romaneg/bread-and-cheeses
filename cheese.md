@@ -48,7 +48,7 @@ Cheese development depends on multiple parameters:
 		  {% if post.image %}
 		  <div class="post-image">
 			<a href="{{ post.url | prepend: site.baseurl }}">
-			  <img src="{{ post.image }}">
+			  <img src="{{ post.image | prepend: site.baseurl}}">
 			</a>
 		  </div>
 		  {% endif %}
