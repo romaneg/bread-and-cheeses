@@ -53,8 +53,19 @@ Cheese development depends on multiple parameters:
 		  </div>
 		  {% endif %}
 		  <div class="post-entry">
-				{{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-		  </div>
+            <!--{{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+            {% assign excerpt_word_count = post.excerpt | number_of_words %}-->
+            {% if post.content contains '<!--excerpt.start-->' and post.content contains '<!--excerpt.end-->' %}
+                {{ ((post.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | strip_html | truncatewords: site.excerpt_length }}
+            {% else %}
+                {{ post.content | strip_html | truncatewords: site.excerpt_length }}
+            {% endif %}
+            
+            
+            {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+              <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+            {% endif %}
+          </div>
 		</div>
 
 	   </article>
