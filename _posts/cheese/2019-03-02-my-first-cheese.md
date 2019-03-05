@@ -2,13 +2,16 @@
 layout: post
 title: My very first cheese
 subtitle: Playing with raw milk, goat cheese and rennet
+image: /assets/img/cheese/2019-03/first-cheese-excerpt.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
 tags: [cheese]
 ---
 
 ![first cheese]({{site.baseurl}}/assets/img/cheese/2019-03/first-cheese-3.JPG)
 
-I made my first cheese long time ago, in 2016. At that time I was living in Paris in a small appartment. It was also a time where I was practicing a lot my pastry cooking skills. More generally, I already liked to make things by myself, just for the intellectual excitement of understanding how things work. I was really interested in making cheese but I had a very hard time finding very good online ressources (at least in French, I discovered later a lot of good websites in the anglophone world!). 
+<!--excerpt.start-->
+I made my first cheese long time ago, in 2016. At that time I was living in Paris in a small appartment. It was also a time where I was practicing a lot my pastry cooking skills. More generally, I already liked to make things by myself, just for the intellectual excitement of understanding how things work. I was really interested in making cheese but I had a very hard time finding very good online ressources (at least in French, I discovered later a lot of good websites in the anglophone world!).
+<!--excerpt.end-->
 
 It has been a long time now and I do not remember the exact details of the process I followed. But here is what I remember.
 My first try involved:
