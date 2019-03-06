@@ -8,7 +8,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Lora', 'Times New Roman', serif;
   font-size: 16px;
   color: #404040;
   position: relative;
@@ -23,7 +23,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Ovo', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Myeongjo', 'Ovo', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -111,7 +111,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Ovo', 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Myeongjo', 'Playfair Display', Arial, serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -119,9 +119,9 @@ img {
 }
 
 .navbar-custom .nav li a {
-  text-transform: uppercase;
-  font-size: 18px;
-  letter-spacing: 2px;
+  /* text-transform: uppercase; */
+  font-size: 22px;
+  /* letter-spacing: 2px; */
 }
 
 .navbar-custom .nav{
