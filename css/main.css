@@ -130,8 +130,13 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  /*font-weight: 800;*/
   color: {{ site.navbar-text-col }};
+}
+
+/* Navbar lang*/
+.lang-button{
+    text-decoration: underline;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -139,6 +144,7 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: {{ site.hover-col }};
+  font-weight: 800;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -220,6 +226,7 @@ img {
   padding-left: max(15px, env(safe-area-inset-left));
   padding-right: max(15px, env(safe-area-inset-right));
 }
+
 
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {

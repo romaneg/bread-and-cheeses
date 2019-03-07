@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About me
+ref: about
+lang: EN
 ---
 
 I am a French researcher working in computer science applied to medical imaging. I have been living in the US for about one year. 

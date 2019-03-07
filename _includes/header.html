@@ -36,7 +36,13 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">
+              {% if page.lang=='EN' %} 
+                Posted on {{ page.date | date: "%m/%d/%Y" }}
+              {% else %}
+                Post&eacute;  le {{ page.date | date: "%d-%m-%Y" }}
+              {% endif %}
+           </span>
 		  {% endif %}
         </div>
       </div>
@@ -61,7 +67,13 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">
+            {% if page.lang=='EN' %} 
+                Posted on {{ page.date | date: "%m/%d/%Y" }}
+            {% else %}
+                Post&eacute;  le {{ page.date | date: "%d-%m-%Y" }}
+            {% endif %}
+          </span>
 		  {% endif %}
         </div>
       </div>

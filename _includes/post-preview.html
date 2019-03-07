@@ -1,0 +1,65 @@
+<article class="post-preview">
+<a href="{{ post.url | prepend: site.baseurl }}">
+  <h2 class="post-title">{{ post.title }}</h2>
+
+  {% if post.subtitle %}
+  <h3 class="post-subtitle">
+    {{ post.subtitle }}
+  </h3>
+  {% endif %}
+</a>
+
+<p class="post-meta">
+  {% if include.lang=='EN' %} 
+    Posted on {{ post.date | date: "%m/%d/%Y" }}
+  {% else %}
+    Post&eacute;  le {{ post.date | date: "%d-%m-%Y" }}
+  {% endif %}
+</p>
+
+<div class="post-entry-container">
+  {% if post.image %}
+  <div class="post-image">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <img src="{{ post.image | prepend: site.baseurl }}">
+    </a>
+  </div>
+  {% endif %}
+
+  <div class="post-entry">
+    <!--{{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+    {% assign excerpt_word_count = post.excerpt | number_of_words %}-->
+    {% if post.content contains '<!--excerpt.start-->' and post.content contains '<!--excerpt.end-->' %}
+        {{ ((post.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | strip_html | truncatewords: site.excerpt_length }}
+    {% else %}
+        {{ post.content | strip_html | truncatewords: site.excerpt_length }}
+    {% endif %}
+    
+    
+    {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">
+        {% if include.lang=='EN' %} 
+            [Read&nbsp;More]
+        {% else %}
+            [Suite]
+        {% endif %} 
+        </a>
+    {% endif %}
+  </div>
+</div>
+
+<!-- {% if post.tags.size > 0 %}
+<div class="blog-tags">
+  Tags:
+  {% if site.link-tags %}
+  {% for tag in post.tags %}
+  <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
+  {% endfor %}
+  {% else %}
+    {{ post.tags | join: ", " }}
+  {% endif %}
+</div>
+{% endif %}
+-->
+
+</article>

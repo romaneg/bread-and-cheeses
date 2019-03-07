@@ -1,12 +1,12 @@
 ---
 layout: post
-title: My very first cheese
-subtitle: Playing with raw milk, goat cheese and rennet
+title: Mon tout premier fromage
+subtitle: S'amuser avec du lait cru, du fromage the chevre et de la presure
 image: /assets/img/cheese/2019-03/first-cheese-excerpt.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: first-cheese
-lang: EN
-tags: [cheese]
+lang: FR
+tags: [fromage]
 ---
 
 ![first cheese]({{site.baseurl}}/assets/img/cheese/2019-03/first-cheese-3.JPG)
