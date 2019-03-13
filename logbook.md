@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Let's make some cheese!
-ref: cheese
+ref: logbook
 lang: EN
 ---
 

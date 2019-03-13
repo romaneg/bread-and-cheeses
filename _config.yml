@@ -21,12 +21,14 @@ description: a blog about natural fermentation to make bread and cheese at home
 # List of links in the navigation bar
 navbar-links:
     EN:
-        Cheese: "cheese"
-        Bread: "bread"
+        Logbook: "logbook"
+        Basics: "basics"
+        Resources: "resources"
         About: "aboutme"
     FR:
-        Fromage: "fr/fromage"
-        Pain: "fr/pain"
+        Carnet de bord: "fr/fromage"
+        Les bases: "fr/bases"
+        Ressources: "fr/ressources"
         "À Propos": "fr/a-propos"
         
 

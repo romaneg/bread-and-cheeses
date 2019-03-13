@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Faire du fromage
-ref: logbook
+ref: basics
 lang: FR
 ---
 
