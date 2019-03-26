@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Let's make some cheese!
+title: How to start making cheese?
 ref: basics
 lang: EN
 ---
 
----
 ### What is cheese?
 
 The origin of cheese is very likely to be as old as the beginning of agriculture and farming. People rapidly discovered it was a good way of preserving milk in an eatable form.
@@ -17,7 +16,7 @@ Cheese making counts generally three steps:
 
 In the following image are shown the different varieties of cheeses depending on the steps and processes applied to the milk and curd.
 
-![cheese varieties]({{site.baseurl}}/assets/img/cheese/2019-03/cheese-varieties.png)
+![from milk to cheeses]({{site.baseurl}}/assets/img/cheese/from-milk-to-cheese.png)
 
 *Source: On Food and Cooking: The Science and Lore of the Kitchen, Harold McGee*
 
@@ -31,5 +30,10 @@ Cheese development depends on multiple parameters:
 - temperature
 - humidity
 
+Varying one or more of these parameters can give very different results. In particular, humidity is crucial and allows to favor some bacteria over others. Some bacteria make the curd evovle in different ways. For instance, to make a washed-rind cheese, the rind is washed with a brine for the first days. Salt limits the development of bacteria. There is thus room for *brevibacterium* that like humidity a lot, they can install durably on the curd rind.
 
-{% include posts-list-per-tag.html tag='cheese' %}
+Cheese ripening can actually be seen as bacteria breeding. Cheese making consists in setting up an ideal environment for a given type of bacteria. They can then install and prevent other micro-organisms to develop. That is what a cheesemonger is mastering. He knows how to play with the different parameters to let bacteria develop the flavors and texture he wants.
+
+
+
+{% include posts-list-per-tag.html tag='basics' %}

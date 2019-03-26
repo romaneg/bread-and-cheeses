@@ -111,7 +111,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Nanum Myeongjo', 'Playfair Display', Arial, serif;
+  font-family: 'Neuton', 'Nanum Myeongjo', 'Playfair Display', Arial, serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;

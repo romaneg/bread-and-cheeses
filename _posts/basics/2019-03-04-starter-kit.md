@@ -6,7 +6,7 @@ image: /assets/img/cheese/2019-03/
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: starter-kit
 lang: EN
-tags: [cheese, material, kefir]
+tags: [basics, cheese, material, kefir]
 ---
 
 ![starter kit picture]({{site.baseurl}}/assets/img/cheese/2019-03/starter-kit.JPG)
