@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Minimal starting kit to make cheese at home
+title: Petit kit pas cher pour debutant
 subtitle: You only need milk, rennet and kefir
-image: /assets/img/cheese/2019-03/starter-kit-en.png
+image: /assets/img/cheese/2019-03/starter-kit-fr.png
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: starter-kit
-lang: EN
-tags: [basics, cheese, material, kefir]
+lang: FR
+tags: [bases, fromage, materiel, kefir]
 ---
 
-![starter kit picture]({{site.baseurl}}/assets/img/cheese/2019-03/starter-kit-en.png)
+![le kit du debutant]({{site.baseurl}}/assets/img/cheese/2019-03/starter-kit-fr.png)
 
 <!--excerpt.start-->
 Making cheese at home does not require an expensive equipement. This will not cost you more than a dozen of dollars, especially if you can re-use material from your kitchen. You can find below a list of the minimal starting kit (see also the picture).<!--excerpt.end-->

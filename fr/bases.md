@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quelques bases
+title: Faire du fromage: les bases
 ref: basics
 lang: FR
 ---

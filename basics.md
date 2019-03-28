@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to start making cheese?
+title: Cheesemaking basics
 ref: basics
 lang: EN
 ---
