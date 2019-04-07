@@ -18,7 +18,19 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="tests_logo.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4116">
+      <rect
+         style="opacity:1;fill:#ffffff;stroke-width:1.06500006;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4118"
+         width="113.77084"
+         height="10.583328"
+         x="-43.65625"
+         y="142.88693" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="32.089916"
-     inkscape:cy="567.28026"
+     inkscape:zoom="1.979899"
+     inkscape:cx="159.15938"
+     inkscape:cy="625.92851"
      inkscape:document-units="mm"
      inkscape:current-layer="g1091"
      showgrid="true"
@@ -253,7 +265,7 @@
            x="8.5714283"
            y="416.44824"
            style="-inkscape-font-specification:'Franklin Gothic Demi';font-family:'Franklin Gothic Demi';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara876"></flowPara></flowRoot>    <g
+         id="flowPara876" /></flowRoot>    <g
        id="g944"
        inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city_big.png"
        inkscape:export-xdpi="351.63452"
@@ -290,13 +302,13 @@
     <g
        id="g1091">
       <rect
-         style="opacity:1;fill:#ffffff;stroke-width:1.06673086;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#ffffff;stroke-width:1.21607804;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1093"
-         width="104.51042"
-         height="10.718561"
-         x="-31.75"
-         y="132.16165"
-         inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city-v2_big.png"
+         width="115.76192"
+         height="12.576029"
+         x="-34.395832"
+         y="158.76193"
+         inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city-v3_big.png"
          inkscape:export-xdpi="351.63452"
          inkscape:export-ydpi="351.63452" />
       <g
@@ -339,6 +351,73 @@
            inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city_big.png"
            inkscape:export-xdpi="351.63452"
            inkscape:export-ydpi="351.63452" />
+      </g>
+      <g
+         transform="translate(11.906249,17.197918)"
+         id="g1081-9"
+         inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city-v3_big.png"
+         inkscape:export-xdpi="351.63452"
+         inkscape:export-ydpi="351.63452"
+         clip-path="url(#clipPath4116)">
+        <g
+           id="g154"
+           inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city-v3_big.png"
+           inkscape:export-xdpi="351.63452"
+           inkscape:export-ydpi="351.63452">
+          <g
+             transform="translate(-24.225094,22.41063)"
+             id="g944-3-0"
+             inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city-v2_big.png"
+             inkscape:export-xdpi="351.63452"
+             inkscape:export-ydpi="351.63452">
+            <flowRoot
+               transform="matrix(0.26458333,0,0,0.26458333,-1.1339286,11.746282)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Floral Flush';-inkscape-font-specification:'Floral Flush';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot878-2-5"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion880-1-8"><rect
+                   y="406.09113"
+                   x="27.5"
+                   height="53.224426"
+                   width="329.05942"
+                   id="rect882-7-9" /></flowRegion><flowPara
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';text-align:end;text-anchor:end"
+                 id="flowPara884-1-2">Cheese  n the C ty</flowPara></flowRoot>          </g>
+          <g
+             id="g4068"
+             transform="matrix(1.3720174,0,0,1.3720174,-64.513685,-41.931272)">
+            <path
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Floral Flush';-inkscape-font-specification:'Floral Flush';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="m 63.556315,133.30709 -0.06201,0.39274 h -0.08785 l -0.06201,0.39274 h -0.07751 l -0.06201,0.39275 h -0.07752 l -0.06201,0.39274 h -0.08785 l -0.06201,0.39274 h 0.01034 v 5.67924 h 1.446424 v -5.8813 l -0.03049,-0.19068 h -0.08785 l -0.06201,-0.39274 h -0.08268 l -0.05684,-0.39275 h -0.08268 l -0.05684,-0.39274 h -0.09302 l -0.05684,-0.39274 z m -0.413412,2.00505 h 0.222209 v 0.21704 h -0.222209 z m 0.54777,0 h 0.217042 v 0.21704 h -0.217042 z m 0.268718,0.005 h 0.217041 v 0.21704 h -0.217041 z m -0.81132,0.57361 h 0.217041 v 0.2222 h -0.217041 z m 0.54777,0 h 0.217041 v 0.2222 h -0.217041 z m -0.279053,0.28938 h 0.217041 v 0.21704 h -0.217041 z m 0.542603,0 h 0.217041 v 0.21704 h -0.217041 z m -0.542603,0.28422 h 0.217041 v 0.21704 h -0.217041 z m 0.542603,0 h 0.217041 v 0.21704 h -0.217041 z m -0.81132,0.005 h 0.217041 v 0.21704 h -0.217041 z m 0,0.28422 h 0.217041 v 0.22221 h -0.217041 z m 0.268717,0 h 0.222209 v 0.22221 h -0.222209 z"
+               id="flowRoot862-6-2-1"
+               inkscape:connector-curvature="0"
+               inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city_big.png"
+               inkscape:export-xdpi="351.63452"
+               inkscape:export-ydpi="351.63452" />
+            <rect
+               style="opacity:1;fill:#ffffff;stroke-width:0.52327645;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect107-7"
+               width="1.8804426"
+               height="2.0221367"
+               x="62.791267"
+               y="133.05574" />
+            <path
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Floral Flush';-inkscape-font-specification:'Floral Flush';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="m 89.987032,133.29872 -0.06201,0.39274 h -0.08785 l -0.06201,0.39274 h -0.07751 l -0.06201,0.39275 h -0.07752 l -0.06201,0.39274 h -0.08785 l -0.06201,0.39274 h 0.01034 v 5.67924 h 1.446424 v -5.8813 l -0.03049,-0.19068 h -0.08785 l -0.06201,-0.39274 h -0.08268 l -0.05684,-0.39275 h -0.08268 l -0.05684,-0.39274 h -0.09302 l -0.05684,-0.39274 z m -0.413412,2.00505 h 0.222209 v 0.21704 H 89.57362 Z m 0.54777,0 h 0.217042 v 0.21704 H 90.12139 Z m 0.268718,0.005 h 0.217041 v 0.21704 h -0.217041 z m -0.81132,0.57361 h 0.217041 v 0.2222 h -0.217041 z m 0.54777,0 h 0.217041 v 0.2222 h -0.217041 z m -0.279053,0.28938 h 0.217041 v 0.21704 h -0.217041 z m 0.542603,0 h 0.217041 v 0.21704 h -0.217041 z m -0.542603,0.28422 h 0.217041 v 0.21704 h -0.217041 z m 0.542603,0 h 0.217041 v 0.21704 h -0.217041 z m -0.81132,0.005 h 0.217041 v 0.21704 h -0.217041 z m 0,0.28422 h 0.217041 v 0.22221 h -0.217041 z m 0.268717,0 h 0.222209 v 0.22221 h -0.222209 z"
+               id="flowRoot862-6-2-1-0"
+               inkscape:connector-curvature="0"
+               inkscape:export-filename="C:\Users\RomaneGauriau\Documents\bread-and-cheeses\assets\img\logo_cheese-in-the-city_big.png"
+               inkscape:export-xdpi="351.63452"
+               inkscape:export-ydpi="351.63452" />
+            <rect
+               style="opacity:1;fill:#ffffff;stroke-width:0.52327645;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect107-7-4"
+               width="1.8804425"
+               height="2.0221367"
+               x="89.221992"
+               y="133.04739" />
+          </g>
+        </g>
       </g>
     </g>
   </g>
