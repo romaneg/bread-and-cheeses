@@ -50,14 +50,14 @@
             {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
             {% for post in posts %}
                 <li>
-                    <a href="{{ post.url }}" class="{{ post.lang }} lang-button ">{{ post.lang }}</a>
+                    <a href="{{ site.url }}{{ post.url }}" class="{{ post.lang }} lang-button ">{{ post.lang }}</a>
                 </li>
             {% endfor %}
         {% else %}
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
             {% for page in pages %}
               <li>
-                <a href="{{ page.url }}" class="{{ page.lang }} lang-button">{{ page.lang }}</a>
+                <a href="{{ site.url }}/fr/{{ page.url }}" class="{{ page.lang }} lang-button">{{ page.lang }}</a>
               </li>
             {% endfor %} 
         {% endif %}
