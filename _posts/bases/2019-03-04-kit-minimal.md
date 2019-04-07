@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Materiel essentiel pour debutant
+title: Matériel essentiel pour debutant
 subtitle: Un petit kit pour quelques dizaines d'euros
 image: /assets/img/cheese/2019-03/starter-kit-fr.png
 permalink: /:categories/:year/:month/:day/:title:output_ext
