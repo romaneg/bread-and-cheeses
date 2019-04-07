@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Faire du fromage: les bases
+title: Faire du fromage - les bases
 ref: basics
 lang: FR
 ---
@@ -28,7 +28,3 @@ L’illustration ci-dessous montre les différentes étapes possibles et les dif
 La variation d'un seul de ces paramètres peut donner des résultats plus ou moins différents. En particulier, la gestion de l'humidité est cruciale et permet de favoriser des populations de bactéries par rapport à d'autres. Certaines populations de bactéries font ensuite évoluer le caillé différemment. Par exemple, pour réaliser un fromage à croute lavée, il va falloir laver la croute du fromage avec une saumure (le sel limitant le développement des bactéries) régulièrement pendant les premiers jours. La place étant libre, les bactéries *brevibacterium*, appréciant un environnement humide, vont pouvoir s’installer durablement.
 
 On peut voir l’affinage de fromage comme de l’élevage de bactéries. Il s’agit de mettre en place l’environnement idéal adapté à certains types de bactéries. Celles-ci peuvent ensuite s’installer et empêcher d’autres populations de micro-organismes de se développer. C’est tout le savoir et la connaissance du maitre affineur qui permet alors de jouer avec les différents paramètres et de bien élever son troupeau de bactéries pour développer les saveurs et textures désirées.
-
-
-
-{% include posts-list-per-tag.html tag='bases' %}

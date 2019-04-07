@@ -1,12 +1,12 @@
 {% assign lang=page.lang%}
 <div class="posts-list">
-    <h1 style="border-bottom:1px solid #EAEAEA;">
+    <!-- <h1 style="border-bottom:1px solid #EAEAEA;">
     {% if lang=='EN'%}
         Last articles
     {% else %}
         Derniers articles
-    {% endif %}
-    </h1>
+    {% endif %} 
+    </h1>-->
   {% for post in site.posts %}
 	  {% if post.tags contains include.tag %}
         {% if post.lang == lang %}

@@ -33,7 +33,3 @@ Cheese development depends on multiple parameters:
 Varying one or more of these parameters can give very different results. In particular, humidity is crucial and allows to favor some bacteria over others. Some bacteria make the curd evovle in different ways. For instance, to make a washed-rind cheese, the rind is washed with a brine for the first days. Salt limits the development of bacteria. There is thus room for *brevibacterium* that like humidity a lot, they can install durably on the curd rind.
 
 Cheese ripening can actually be seen as bacteria breeding. Cheese making consists in setting up an ideal environment for a given type of bacteria. They can then install and prevent other micro-organisms to develop. That is what a cheesemonger is mastering. He knows how to play with the different parameters to let bacteria develop the flavors and texture he wants.
-
-
-
-{% include posts-list-per-tag.html tag='basics' %}

@@ -22,12 +22,18 @@ description: a blog about natural fermentation to make bread and cheese at home
 navbar-links:
     EN:
         Logbook: "logbook"
-        Basics: "basics"
+        Basics:
+            - Introduction: "basics"
+            - Material: "material"
+            - Ingredients: "ingredients"
         Resources: "resources"
         About: "aboutme"
     FR:
         Carnet de bord: "fr/carnet-de-bord"
-        Les bases: "fr/bases"
+        Les bases: 
+            - Introduction: "fr/bases"
+            - Matériel: "fr/materiel"
+            - Ingrédients: "fr/ingredients"
         Ressources: "fr/ressources"
         "À Propos": "fr/a-propos"
         
@@ -165,7 +171,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+#paginate: 5
 
 kramdown:
   input: GFM

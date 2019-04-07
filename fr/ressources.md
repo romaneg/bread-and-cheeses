@@ -19,9 +19,34 @@ Un livre américain, non traduit en français à ma connaissance. Premier livre 
 ## Sites
 ---
 
-#### Buy kefir grains and cheese supply
+#### Etats-Unis
+**Grains de kéfir et matériel**
 [thecheesemaker.com](https://www.thecheesemaker.com/)
 
+#### France
 
-## Adresses
+
+
+## Trouver du lait cru
 ---
+
+### Etats-Unis
+
+**Dans le Massachussets** - 
+[liste et carte de laiteries](https://www.nofamass.org/raw-milk)
+
+**Brookford farm, Canterbury, NH**
+<span style="line-height:10px;"><br></span> 
+Vaches jersiaises et guernesey, nourries 100% à l'herbe
+<span style="line-height:10px;"><br></span> 
+[Self-service de la ferme](http://www.brookfordfarm.com/farm-store) ouvert tous les jours 7:00-19:00
+
+### France
+
+**Marchés de quartier**
+
+**Bernard Gaborit**
+<span style="line-height:10px;"><br></span> 
+Lait bio non homogénéisé de vaches jersiaises, distribué en [magasins bio](https://www.bernardgaborit.fr/ou-nous-trouver/les-magasins-distributeurs)
+
+**Fermes** - [adresses et leurs produits](https://www.bienvenue-a-la-ferme.com/)

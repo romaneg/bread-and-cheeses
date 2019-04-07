@@ -19,11 +19,34 @@ To the best of my knowledge, this is the first book that ever talked about how t
 ## Links
 ---
 
+#### US
+**Buy kefir grains and cheese supply**
+[thecheesemaker.com](https://www.thecheesemaker.com/)
 
-## Addresses
+#### France
+
+
+
+## Find raw milk
 ---
 
-#### Finding raw milk in Masschussets
+### US
+
+**Finding raw milk in Massachussets** - 
 [List and map of raw milk dairies](https://www.nofamass.org/raw-milk)
 
+**Brookford farm, Canterbury, NH**
+<span style="line-height:10px;"><br></span> 
+100% grass-fed Jersey and Guernsey cows, non-GMO
+<span style="line-height:10px;"><br></span> 
+[Self-service farm store](http://www.brookfordfarm.com/farm-store) open 7 days 7am-7pm
 
+### France
+
+**Open markets**
+
+**Bernard Gaborit**
+<span style="line-height:10px;"><br></span> 
+Organic non homogeneized raw milk from Jersey cows, distributed in [organic supermarkets](https://www.bernardgaborit.fr/ou-nous-trouver/les-magasins-distributeurs)
+
+**Farms** - [products and map](https://www.bienvenue-a-la-ferme.com/)

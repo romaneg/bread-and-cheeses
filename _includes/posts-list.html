@@ -1,32 +1,8 @@
 {% assign lang=page.lang%}
 <div class="posts-list">
-    <h1 style="border-bottom:1px solid #EAEAEA;">
-        {% if lang=='EN'%}
-            Last articles
-        {% else %}
-            Derniers articles
-        {% endif %}
-    </h1>
     {% for post in site.posts %}
         {% if post.lang == lang %}
             {% include post-preview.html lang=lang %}
         {% endif %}
     {% endfor %}
 </div>
-
-<!--
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
--->
