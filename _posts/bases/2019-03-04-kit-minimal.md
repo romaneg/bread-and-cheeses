@@ -25,7 +25,7 @@ Si vous ne trouvez personne pour vous en donner, vous pouvez toujours les achete
 
 
 #### Présure
-J’utilise de la présure naturelle (à base de caillette de veau) sous forme déshydratée. Cette forme est plus facile à doser que la présure liquide, et se conserve plus longtemps (un avantage si vous ne comptez pas faire du fromage tous les jours). J’utilise la marque canadienne [Walcoren]( http://www.walcoren.com/fr/presure-naturelle/walcoren-97TP100-premium-97-plus.html), marque aussi recommandée par *David Asher* dans son livre. Il ne semble pas possible de faire livrer en Europe malheureusement. D’après mes dernières recherches il est compliqué de trouver de la présure en comprimés en France, la présure est plutôt vendue sous forme liquide. Les concentrations peuvent cependant varier. Vous pouvez vous référer au tableau fournit sur [cette page]( http://www.laboratoires-abia.com/presure-caillette/) pour convertir les quantités à utiliser dans les recettes.
+J’utilise de la présure naturelle (à base de caillette de veau) sous forme déshydratée. Cette forme est plus facile à doser que la présure liquide, et se conserve plus longtemps (un avantage si vous ne comptez pas faire du fromage tous les jours). J’utilise la marque canadienne [Walcoren]( http://www.walcoren.com/fr/presure-naturelle/walcoren-97TP100-premium-97-plus.html), marque aussi recommandée par *David Asher* dans son livre. Il ne semble pas possible de faire livrer en Europe malheureusement. D’après mes dernières recherches il est compliqué de trouver de la présure en comprimés en France, la présure est plutôt vendue sous forme liquide. Les concentrations peuvent cependant varier, référez-vous à la documentation du fabriquant.
 
 
 #### Casserole
