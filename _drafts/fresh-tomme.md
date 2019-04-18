@@ -74,7 +74,7 @@ The milk has now started to coagulate. If you move a little the pan you should s
 
 It is now time to cut the curd. Use the whisk to reduce the curd to very small pieces of the size of lentils (see picture below). 
 
-![curd cut]({{site.baseurl}}/assets/img/cheese/2019-04/tomme-curd.png)
+![curd cut]({{site.baseurl}}/assets/img/cheese/2019-04/tomme-curd.jpg)
 *Curd cut, warmed up and strained*
 
 **Time: 2:20 - 3:20, Temperature 32°C -> 40°C**
@@ -91,7 +91,7 @@ Now put the curd with the cheese cloth into the cheese mold to continue draining
 
 Now add some load on the cheese to enforce draining. I use for instance a bottle of milk in which I can add water little by little. Increase the load and return the cheese several times. Then let it drain for the night at room temperature.
 
-![curd pressing]({{site.baseurl}}/assets/img/cheese/2019-04/tomme-fraiche-pressage.png)
+![curd pressing]({{site.baseurl}}/assets/img/cheese/2019-04/tomme-fraiche-pressage.jpg)
 *Curd pressing and final result*
 
 **Time : ~10:00, Room temperature (~20°C)**

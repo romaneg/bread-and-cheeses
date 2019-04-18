@@ -2,14 +2,14 @@
 layout: post
 title: Minimal starting kit to make cheese at home
 subtitle: Start making cheese for a few dozen of dollars
-image: /assets/img/cheese/2019-03/starter-kit-en.png
+image: /assets/img/cheese/2019-03/starter-kit-en.jpg
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: starter-kit
 lang: EN
 tags: [basics, cheese, material, kefir]
 ---
 
-![starter kit picture]({{site.baseurl}}/assets/img/cheese/2019-03/starter-kit-en.png)
+![starter kit picture]({{site.baseurl}}/assets/img/cheese/2019-03/starter-kit-en.jpg)
 
 <!--excerpt.start-->
 Making cheese at home does not require an expensive equipement. This will not cost you more than a dozen of dollars, especially if you can re-use material from your kitchen. You can find below a list of the minimal starting kit (see also the picture).<!--excerpt.end-->
@@ -29,7 +29,7 @@ If you cannot find neighbors who could share grains with you, you can also buy t
 
 
 #### Rennet
-I am using calf rennet in a tablet form (natural product from calf vell).
+I am using calf rennet in a tablet form (natural product from calf stomach).
 So far I have been satisfied with the brand [Walcoren](https://www.thecheesemaker.com/walcoren-dry-calf-rennet-tablets/)(without GMO), that's also the brand recommended by *David Asher* in his book. For $20 you get 20 tablets, that allows you to use about 120L of milk for cheese making.
 In my preliminary experiments I used liquid rennet. I found it more difficult to dose out. It can also be kept less longer.
 

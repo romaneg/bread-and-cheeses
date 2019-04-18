@@ -2,14 +2,14 @@
 layout: post
 title: Matériel essentiel pour debutant
 subtitle: Un petit kit pour quelques dizaines d'euros
-image: /assets/img/cheese/2019-03/starter-kit-fr.png
+image: /assets/img/cheese/2019-03/starter-kit-fr.jpg
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: starter-kit
 lang: FR
 tags: [bases, fromage, materiel, kefir]
 ---
 
-![le kit du debutant]({{site.baseurl}}/assets/img/cheese/2019-03/starter-kit-fr.png)
+![le kit du debutant]({{site.baseurl}}/assets/img/cheese/2019-03/starter-kit-fr.jpg)
 
 <!--excerpt.start-->
 Faire son fromage à la maison ne requiert pas d’investir dans du matériel très onéreux. Si vous avez déjà un peu de matériel de cuisine, cela ne vous en coutera que quelques dizaines d’euros. Ci-dessous je donne une liste du matériel essentiel (voir photo) qui permet de commencer à faire une palette assez variée de fromages.<!--excerpt.end-->

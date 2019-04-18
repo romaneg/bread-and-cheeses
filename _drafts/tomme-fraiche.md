@@ -66,7 +66,7 @@ Le lait doit maintenant avoir commencé à coaguler, si vous bougez un peu la ca
 Il est maintenant temps de découper le caillé. Pour les fromages à pâte pressées, le caillé est découpé en très petits grains (~3mm) afin d'évacuer le plus d'eau possible.
 Avec un fouet mélangez le caillé pour obtenir des petits grains environ de la taille de lentilles (voire photos ci-dessous).
 
-![découpe du caillé de tomme]({{site.baseurl}}/assets/img/cheese/2019-04/tomme-curd.png)
+![découpe du caillé de tomme]({{site.baseurl}}/assets/img/cheese/2019-04/tomme-curd.jpg)
 *Découpe du caillé au fouet, chauffage et égouttage*
 
 **Temps: 2:20 - 3:20, Température 32°C -> 40°C**
@@ -86,7 +86,7 @@ Ajoutez maintenant un poids sur le fromage pour le pressage. Une bouteille de la
 Augmentez le poids au fur et à mesure. Retournez le fromage toutes les 20-30 minutes. Répétez deux ou trois fois puis laissez égoutter toute la nuit à température ambiante.
 
 
-![pressage du caillé]({{site.baseurl}}/assets/img/cheese/2019-04/tomme-fraiche-pressage.png)
+![pressage du caillé]({{site.baseurl}}/assets/img/cheese/2019-04/tomme-fraiche-pressage.jpg)
 *Pressage du caillé avec les moyens du bord et résultat final*
 
 **Temps : ~10:00, Température ambiante (~20°C)**
