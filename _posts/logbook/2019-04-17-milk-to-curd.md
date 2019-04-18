@@ -6,14 +6,14 @@ image: /assets/img/cheese/2019-04/curd-draining_square.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: rennet-curd
 lang: EN
-tags: [logbook, cheese, curd, coagulationm, recipe]
+tags: [logbook, cheese, curd, coagulation, recipe]
 ---
 
 ![cheese curd]({{site.baseurl}}/assets/img/cheese/2019-04/curd-draining.JPG)
 
 <!--excerpt.start-->
-Most of cheeses made from cow milk start with the same steps with a few variants. It is the case for most soft, semi-hard and hard cheeses. The milk is let to coagulate using rennet (traditionnally animal enzymes extracted from calf stomach, vegetable rennet also exist).
-Please refer to the [introduction](({{site.baseurl}}/basics.md)) page for basic explanations about the cheese making process.
+Most of cheeses made from cow milk start with the same steps with a few variants. It is the case for most soft, semi-hard and hard cheeses. The milk is let to coagulate using [rennet]({{site.baseurl}}/2019/03/04/starter-kit.html) (traditionnally animal enzymes extracted from calf stomach, vegetable rennet also exist).
+Please refer to the [introduction]({{site.baseurl}}/basics) page for basic explanations about the cheese making process.
 
 Making cheese curd with rennet is done in three main steps: 
 1. Warm up the milk and start fermentation

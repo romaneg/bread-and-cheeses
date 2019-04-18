@@ -6,7 +6,7 @@ image: /assets/img/cheese/2019-03/first-cheese-excerpt.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: first-cheese
 lang: FR
-tags: [carnet-de-bord, fromage]
+tags: [carnet-de-bord, fromage, recette]
 ---
 
 ![first cheese]({{site.baseurl}}/assets/img/cheese/2019-03/first-cheese-3.JPG)
