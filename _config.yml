@@ -52,12 +52,15 @@ title-img: "https://romaneg.github.io/cheese-in-the-city/assets/img/logo_cheese-
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#FFFFFF"
-navbar-text-col: "#404040"
+navbar-text-col: "#D95F02"
+#"#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#c40101"
+link-col: "#D95F02"
+#c40101"
 #"#008AFF"
-hover-col: "#9b0404" 
+hover-col: "#D95F02"
+#"#9b0404"
 #"#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
