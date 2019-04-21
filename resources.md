@@ -16,11 +16,30 @@ My very first book on cheesemaking, offered by my best friend in 2018. My advent
 
 To the best of my knowledge, this is the first book that ever talked about how to make cheese at home. This book is a very good resource about milk, fermentation, material, techniques. It also gives a lot of different recipes, classified by level of difficulty. The recipes are adapted to small quantities of milk (2l to 4L), which makes it ideal when starting cheesemaking at home.
 
-## Links
+#### *The science of cheese*, Michael H. Tunick, Oxford University Press
+
+This book is about making accessible de scientific aspects of milk, curd and cheese making. 
+Michael Tunick, PhD, has been a research chemist working for the Agriculture Research Service (ARS) of the United States Department of Agriculture since 1985.
+His research focuses on dairy products, cheese manufacturing techniques and storage, as well as chemical and structural aspects of cheese.
+In this book he makes accessible the science of cheese making to everyone (coagulation, curd structure, what makes milk turn into different cheeses etc.). 
+No need to master chemistry and physics to enjoy the reading. 
+This is a must read for anyone who wants to understand the process of cheese making (and will save you days and years going through the thousands of research publications on cheese making)!
+
+
+## Recipes
+---
+
+Gavin Weber [youtube channel](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA)
+<span style="line-height:10px;"><br></span> 
+Many many videos with step-by-step cheese making recipes, cheese degustations. Very funny guy (probably the Australian sense of humour!). 
+Wonderful ressource, tips, visual examples. (recipes with pasteurized milk, additives and industrial cultures/molds though...)
+
+
+## Material
 ---
 
 #### US
-**Buy kefir grains and cheese supply**
+**Buy kefir grains and cheese supply** - 
 [thecheesemaker.com](https://www.thecheesemaker.com/)
 
 #### France
