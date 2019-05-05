@@ -72,4 +72,5 @@ Dans les deux cas, la coagulation correspond a une destabilisation des micelles 
 ### References
 
 [La composition du lait](https://fr.wikipedia.org/wiki/Lait_de_vache), Wikipedia
+
 [Le lait et sa coagulation](https://www.youlab.fr/blog/ressources-scientifiques-bibliographie/le-lait-et-sa-coagulation/), Florian Ronez 

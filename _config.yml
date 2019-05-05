@@ -21,7 +21,9 @@ description: a blog about natural fermentation to make cheese at home
 # List of links in the navigation bar
 navbar-links:
     EN:
-        Logbook: "logbook"
+        Logbook:
+            - Recipes: "logbook"
+            - Gallery: "gallery"
         Basics:
             - Introduction: "basics"
             - Material: "material"
@@ -29,7 +31,9 @@ navbar-links:
         Resources: "resources"
         About: "aboutme"
     FR:
-        Carnet de bord: "fr/carnet-de-bord"
+        Carnet de bord:
+            - Recettes: "fr/carnet-de-bord"
+            - Galerie: "fr/galerie"
         Les bases: 
             - Introduction: "fr/bases"
             - Matériel: "fr/materiel"
@@ -188,7 +192,7 @@ defaults:
     values:
       layout: "post"
       lang: en
-      baseurl: "/bread-and-cheeses"
+      baseurl: "/cheese-in-the-city"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
@@ -196,7 +200,7 @@ defaults:
          path: fr
      values:
          lang: fr
-         base-url: "/bread-and-cheeses/fr/"
+         base-url: "/cheese-in-the-city/fr/"
   -
     scope:
       path: "" # all files
