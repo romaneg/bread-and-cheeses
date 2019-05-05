@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recipes, experiments and failures
+title: Recipes
 ref: logbook
 lang: EN
 ---

@@ -71,35 +71,35 @@ Pasteurized cow milk & kefir, aged 2.5 months
 
 Pasteurized cow milk & kefir, aged 3 months
 
-![reblochon-style]({{site.baseurl}}/assets/img/cheese/gallery/eaten/22-10-18_lait-cru.JPG)
+![soft blue]({{site.baseurl}}/assets/img/cheese/gallery/eaten/22-10-18_lait-cru.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ### October 20th 2018, small St-Nectaire-like
 
 Raw cow milk, aged 3.5 months
 
-![reblochon-style]({{site.baseurl}}/assets/img/cheese/gallery/eaten/22-10-18_lait-cru-2.JPG)
+![st-nectaire like]({{site.baseurl}}/assets/img/cheese/gallery/eaten/22-10-18_lait-cru-2.JPG)
 <span style="line-height:10px;"><br></span>
 
 ### October 20th 2018, small parmesan-like
 
 Raw cow milk, aged 3.5 months
 
-![reblochon-style]({{site.baseurl}}/assets/img/cheese/gallery/eaten/22-10-18_lait-cru-3.JPG)
+![parmesan-like]({{site.baseurl}}/assets/img/cheese/gallery/eaten/22-10-18_lait-cru-3.JPG)
 <span style="line-height:10px;"><br></span>
 
 ### October 22th 2018, Saint-Marcellin
 
 Raw cow milk, aged 1 month
 
-![satin-Marcelling au lait cru]({{site.baseurl}}/assets/img/cheese/gallery/eaten/22-10-18_StMarcellin-lait-cru.JPG)
+![satin-Marcelling with raw milk]({{site.baseurl}}/assets/img/cheese/gallery/eaten/22-10-18_StMarcellin-lait-cru.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ### February 12th 2019, camembert
 
 Pasteurized cow milk & kefir, aged 6 weeks
 
-![blue cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/12-02-19_camembert-kefir.JPG)
+![camembert]({{site.baseurl}}/assets/img/cheese/gallery/eaten/12-02-19_camembert-kefir.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ### February 23rd 2019, blue cheese
@@ -113,14 +113,22 @@ Pasteurized cow milk & kefir, aged 1 month
 
 Raw milk whey
 
-![blue cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/27-03-19_ricotte.JPG)
+![ricotte]({{site.baseurl}}/assets/img/cheese/gallery/eaten/27-03-19_ricotte.JPG)
 <span style="line-height:10px;"><br></span>
 
 ### March 27th 2019, alpine-style fresh tomme
 
 Pasteurized cow milk & kefir
 
-![blue cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/06-04-19_tomme-fraiche.JPG)
+![fresh tomme]({{site.baseurl}}/assets/img/cheese/gallery/eaten/06-04-19_tomme-fraiche.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### April 20th 2019, mozzarella
+
+Pasteurized cow milk & kefir
+
+![mozzarelle]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-04-20_mozzarella.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ---
@@ -132,26 +140,26 @@ Pasteurized cow milk & kefir
 
 Pasteurized cow milk & kefir
 
-![blue cheese]({{site.baseurl}}/assets/img/cheese/gallery/failed/09-02-19_St-Marcellin-kefir.JPG)
+![St-Marcellin]({{site.baseurl}}/assets/img/cheese/gallery/failed/09-02-19_St-Marcellin-kefir.JPG)
 <span style="line-height:10px;"><br></span>
 
 ### February 23th 2019, Saint-Marcellin
 
 Pasteurized cow milk & kefir
 
-![blue cheese]({{site.baseurl}}/assets/img/cheese/gallery/failed/23-02-19_StMarcellin-kefir.JPG)
+![St-Marcellin]({{site.baseurl}}/assets/img/cheese/gallery/failed/23-02-19_StMarcellin-kefir.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ### March 2nd 2019, Saint-Marcellin
 
 Pasteurized cow milk & kefir
 
-![blue cheese]({{site.baseurl}}/assets/img/cheese/gallery/failed/02-03-19_St-Marcellin-Kefir.JPG)
+![St-Marcellin]({{site.baseurl}}/assets/img/cheese/gallery/failed/02-03-19_St-Marcellin-Kefir.JPG)
 <span style="line-height:10px;"><br></span>
 
 ### March 26th 2019, Saint-Marcellin
 
 Pasteurized cow milk & kefir
 
-![blue cheese]({{site.baseurl}}/assets/img/cheese/gallery/failed/26-03-19_StMarcellin-kefir.JPG)
+![St-Marcellin]({{site.baseurl}}/assets/img/cheese/gallery/failed/26-03-19_StMarcellin-kefir.JPG)
 <span style="line-height:10px;"><br></span> 

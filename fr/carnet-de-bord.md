@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carnet de recettes et experiences
+title: Recettes
 ref: logbook
 lang: FR
 ---
