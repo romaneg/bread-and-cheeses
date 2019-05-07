@@ -12,24 +12,34 @@ tags: [logbook, cheese, curd, coagulation, recipe]
 ![cheese curd]({{site.baseurl}}/assets/img/cheese/2019-04/curd-draining.JPG)
 
 <!--excerpt.start-->
-Most of cheeses made from cow milk start with the same steps with a few variants. It is the case for most soft, semi-hard and hard cheeses. The milk is let to coagulate using [rennet]({{site.baseurl}}/2019/03/04/starter-kit.html) (traditionnally animal enzymes extracted from calf stomach, vegetable rennet also exist).
+Most of cheeses made from cow milk start with the same steps with a few variants. It is the case for most soft, semi-hard and hard cheeses. 
+The milk is let to curdle using [rennet]({{site.baseurl}}/2019/03/04/starter-kit.html) (traditionnally animal enzymes extracted from calf stomach, vegetable rennet also exist).
 Please refer to the [introduction]({{site.baseurl}}/basics) page for basic explanations about the cheese making process.
 
 Making cheese curd with rennet is done in three main steps: 
-1. Warm up the milk and start fermentation
+1. Warm up the milk and starter
 2. Add rennet and let the milk coagulate
-3. Cut the curd to expel whey
+3. Cut/mold the curd to expel whey
 <!--excerpt.end-->
 
-In the first step the acid lactic fermentation starts the coagulation process (by acidification). Then, rennet is added (generally chymosin enzymes) and the enzymatic process starts. Both the acid lactic fermentation and the enzymatic process help structuring the proteins in a *gel* (the curd). But both reactions have different effects on the structure depending on their relative importance. The structure of the curd produced mostly by enzymatic process has a tendency to retain water (the *lactoserum*, also called whey). It has low draining properties (contrary to direct acid fermentation). Physical action is thus needed to expel the whey, like cutting, stirring, pressing or increasing the temperature. 
+In the first step the acid lactic fermentation starts the coagulation process (by acidification). 
+Then, rennet is added (generally chymosin enzymes) and the enzymatic process starts. 
+Both the acid lactic fermentation and the enzymatic process help structuring the proteins in a *gel* (the curd). 
+But both reactions have different effects on the structure depending on their relative importance. 
+The structure of the curd produced mostly by enzymatic process has a tendency to retain water (the *lactoserum*, also called whey). 
+It has low draining properties (contrary to direct acid fermentation). 
+Physical action is thus needed to expel the whey, like cutting, stirring, pressing or increasing the temperature. 
 
-The more physical actions applied to the curd, the more water content is expelled. For soft cheeses these actions are limited, while for semi-hard and hard cheeses these actions are more important. For instance, to make traditional camembert, the curd is not even cut but directly added to the mold with a ladle in 5 times. On the contrary, to make *tomme* or alpine-style cheese, the curd is cut into very small pieces (~3mm size), cooked up to 50°C and then pressed into the mold for several hours.
+The more physical actions applied to the curd, the more water content is expelled. 
+For soft cheeses these actions are limited, while for semi-hard and hard cheeses these actions are more important. 
+For instance, to make traditional camembert, the curd is not even cut but directly added to the mold with a ladle in 5 times. 
+On the contrary, to make *tomme* or alpine-style cheese, the curd is cut into very small pieces (~3mm size), cooked up to 50°C and then pressed into the mold for several hours.
 
 
 ### Ingredients
 
 - 4L of [milk]({{site.baseurl}}/2019/03/02/raw-milk.html)
-- 30ml of kefir (or other starter culture) (optional if using raw milk)
+- 30ml of kefir (or other starter culture)
 - 1/4 to 1/2 tablets of Walcoren rennet, crushed and diluted in about 30ml of cold water wihtout chlorine (to decrease the chlorine contained in tap water just shake it and leave it rest for a while)
 
 ### Material

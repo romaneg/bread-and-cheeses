@@ -12,7 +12,8 @@ tags: [carnet-de-bord, fromage, caillé, coagulation, recette]
 ![cheese curd]({{site.baseurl}}/assets/img/cheese/2019-04/curd-draining.JPG)
 
 <!--excerpt.start-->
-La plupart des fromages de vache (pâtes molles, semi-fermes et fermes) commencent par les mêmes étapes, à quelques variantes prêt. Ces premières étapes consistent à faire cailler le lait à l'aide de [présure]({{site.baseurl}}/2019/03/04/kit-minimal.html) (des enzymes extraites de l'estomac du veau traditionnellement, des enzymes végétales peuvent aussi être utilisées). Vous pouvez consulter la page [d'introduction]({{site.baseurl}}/fr/bases) pour plus de détails sur les différents types de fromages et le procédé.
+La plupart des fromages de vache (pâtes molles, semi-fermes et fermes) commencent par les mêmes étapes, à quelques variantes prêt. 
+Ces premières étapes consistent à faire cailler le lait à l'aide de [présure]({{site.baseurl}}/2019/03/04/kit-minimal.html) (des enzymes extraites de l'estomac du veau traditionnellement, des enzymes végétales peuvent aussi être utilisées). 
 
 Faire du caillé à partir de présure consiste en trois grandes étapes :
 1. Réchauffer le lait et favoriser le démarrage de la fermentation
@@ -20,10 +21,13 @@ Faire du caillé à partir de présure consiste en trois grandes étapes :
 3. Découper le caillé pour extraire le petit lait
 <!--excerpt.end-->
 
+Vous pouvez consulter la page [d'introduction]({{site.baseurl}}/fr/bases) pour plus de détails sur les différents types de fromages et un aperçu des procédés.
+Plus d'informations sur les processus physico-chimique en jeu sont donnés [ici]({{site.baseurl}}/2019/05/01/coagulation-du-lait).
+
 ### Ingrédients
 
 - 4L de [lait]({{site.baseurl}}/2019/03/02/raw-milk.html)
-- 30ml de kéfir (ou autre culture d'amorçage) (optionnel si vous utilisez du lait cru)
+- 30ml de kéfir (ou autre culture d'amorçage)
 - 1/4 à 1/2 comprimé de présure Walcoren, écrasé et dilué dans 30ml d'eau froide non chlorée (pour diminuer le chlore de l'eau du robinet, secouez-la et laissez-la reposer)
 
 ### Matériel
