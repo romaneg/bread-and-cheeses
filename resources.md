@@ -10,7 +10,10 @@ lang: EN
 
 #### *The art of natural cheesemaking*, David Asher, Chelsea Green Publishing
 
-My very first book on cheesemaking, offered by my best friend in 2018. My adventure with cheesemaking started with this book. It helped me discover traditional cheesemaking from natural ingredients. It is a true goldmine for those who want to get rid of industrial ferments. It gives the bases and multiple recipes (goat cheese, camembert, blue cheese, St-Marcellin etc.).
+My very first book on cheesemaking, offered by my best friend in 2018. 
+My adventure with cheesemaking started with this book. It helped me discover traditional cheesemaking from natural ingredients. 
+It is a true goldmine for those who want to get rid of industrial ferments and who want the fundamentals of cheesemaking traditions. 
+It explains how to make cheese from kefir and multiple recipes (goat cheese, camembert, blue cheese, St-Marcellin etc.).
 
 #### *Artisan cheese making at home*, Mary Karlin, 10 speed press
 
@@ -24,6 +27,16 @@ His research focuses on dairy products, cheese manufacturing techniques and stor
 In this book he makes accessible the science of cheese making to everyone (coagulation, curd structure, what makes milk turn into different cheeses etc.). 
 No need to master chemistry and physics to enjoy the reading. 
 This is a must read for anyone who wants to understand the process of cheese making (and will save you days and years going through the thousands of research publications on cheese making)!
+
+
+#### *Gut: the inside story of our body's most underrated organ*, Giulia and Jill Enders, Scribe, 2015
+
+From a first glance, this book has nothing to do with cheese, apart its digestion!
+However, this book has been key in my understanding of *microbiom*.
+Humans are giant microbioms. Our survival depends on bacterias and other micro-organisms that live on us and in us (about 2kg from our digestive system only!).
+Those organisms depend on us (we feed them) and we depend on them (they help us digest food for instance).
+Understanding the important role of bacterias allowed me to understand better fermentation and thus cheesemaking.
+I recommend this reading to every bacteria phobics and other sterilization addicts!
 
 
 ## Recipes
