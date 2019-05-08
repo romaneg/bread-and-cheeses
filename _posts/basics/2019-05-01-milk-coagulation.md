@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How does milk transforms into cheese?
+title: How does milk transform into cheese?
 subtitle: Understanding milk coagulation
 image: /assets/img/cheese/2019-05/casein-micelle-microscope_square.jpg
 permalink: /:categories/:year/:month/:day/:title:output_ext
