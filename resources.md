@@ -8,18 +8,20 @@ lang: EN
 ## Books
 ---
 
-#### *The art of natural cheesemaking*, David Asher, Chelsea Green Publishing
+#### *The art of natural cheesemaking*, David Asher, Chelsea Green Publishing, 2017
 
 My very first book on cheesemaking, offered by my best friend in 2018. 
 My adventure with cheesemaking started with this book. It helped me discover traditional cheesemaking from natural ingredients. 
-It is a true goldmine for those who want to get rid of industrial ferments and who want the fundamentals of cheesemaking traditions. 
-It explains how to make cheese from kefir and multiple recipes (goat cheese, camembert, blue cheese, St-Marcellin etc.).
+It is a true goldmine for those who want to get rid of industrial ferments and who want to understand the fundamentals of cheesemaking traditions. 
+It explains how to make cheese from kefir and provides recipes (goat cheese, camembert, blue cheese, St-Marcellin, cultured butter etc.).
 
-#### *Artisan cheese making at home*, Mary Karlin, 10 speed press
+#### *Artisan cheese making at home*, Mary Karlin, 10 speed press, 2011
 
-To the best of my knowledge, this is the first book that ever talked about how to make cheese at home. This book is a very good resource about milk, fermentation, material, techniques. It also gives a lot of different recipes, classified by level of difficulty. The recipes are adapted to small quantities of milk (2l to 4L), which makes it ideal when starting cheesemaking at home.
+To the best of my knowledge, this is the first book that ever talked about how to make cheese at home. 
+This book is a very good resource about milk, fermentation, material, techniques. It also gives a lot of different recipes, classified by level of difficulty. 
+The recipes are adapted to small quantities of milk (2l to 4L), which makes it ideal when starting cheesemaking at home.
 
-#### *The science of cheese*, Michael H. Tunick, Oxford University Press
+#### *The science of cheese*, Michael H. Tunick, Oxford University Press, 2014
 
 This book is about making accessible de scientific aspects of milk, curd and cheese making. 
 Michael Tunick, PhD, has been a research chemist working for the Agriculture Research Service (ARS) of the United States Department of Agriculture since 1985.
