@@ -24,6 +24,7 @@ Quand nous parlons de lait ici nous sous-entendons *lait de vache*, puisque c'es
 <!--excerpt.end-->
 
 Cet article est largement inspiré du travail de vulgarisation de [Florian Ronez](https://www.youlab.fr/blog/ressources-scientifiques-bibliographie/le-lait-et-sa-coagulation) sur la coagulation du lait.
+Pour la recette du caillé, veuillez vous référer à [cet article]({{site.baseurl}}/2019/04/17/du-lait-au-caille.html).
 
 ## La composition du lait
 
@@ -77,8 +78,9 @@ Ce processus peut être le résultat :
 
 Dans les deux cas, la coagulation correspond à une déstabilisation des micelles de caséines et à leur rapprochement qui finit par donner le caillé.
 Pour la plupart des fromages, les deux types de coagulation sont utilisés jointement en donnant plus ou moins d'importance à l'un des deux types.
-Par exemple, le fromage blanc, le maroilles, le camembert sont des fromages dont la coagulation a un caractère plutôt lactique, tandis
+Par exemple, le fromage blanc, le Saint-Marcellin, les fromages de chèvre sont des fromages dont la coagulation a un caractère plutôt lactique, tandis
 que des fromages a pate plus dure comme la tomme subissent une coagulation à dominante enzymatique.
+L'importance de ces phenomenes impact fondamentalement l'humidite du produit final comme nous allons le voir.
 
 Sur la figure suivante sont illustres les mécanismes de ces deux types de coagulation.
 
@@ -89,8 +91,8 @@ Dans le cas de la coagulation par fermentation, les bactéries transforment le l
 L'acidité du lait augmente, l'effet de répulsion des micelles entre elles diminue. 
 Celles-ci finissent alors par s'agglomérer entre elles.
 
-Lors de l'ajout de présure c'est un mécanisme diffèrent qui opère. 
-La présure va couper en deux les protéines de caséines κ (para caséine κ et fragment CMP) se trouvant en périphérie des micelles. 
+Lors de l'ajout de présure c'est un mécanisme différent qui opère. 
+La présure, consitutée d'enzymes, va couper en deux les protéines de caséines κ (para caséine κ et fragment CMP) se trouvant en périphérie des micelles. 
 Les micelles sont déstabilisées. La para caséine κ est plus hydrophobe et s'agrège alors aux caséines α. 
 Les micelles se rapprochent alors entre elles. Cette phase s'appelle la floculation. 
 Vient ensuite une troisième phase ou l'amas de micelles se structure en un réseau bien organisé.
@@ -106,7 +108,7 @@ Les vaches jersiaises donnent un lait légèrement plus riche en protéines que 
 
 ## L'égouttage ou synérèse
 
-Le lait a maintenant coagulé, il se trouve alors dans un état assez stable qui peut faire un peu penser a de la gelée.
+Le lait a maintenant coagulé, il se trouve alors dans un état assez stable qui peut faire un peu penser a de la gelée (voir [cet article]({{site.baseurl}}/2019/04/17/du-lait-au-caille.html) pour la recette et les photos).
 S'ensuit alors la phase d'égouttage, appelée aussi *synérèse* par les chimistes.
 Le but de cette étape est de poursuivre l'extraction du petit lait du caillé.
 
@@ -120,7 +122,7 @@ Il est alors nécessaire d'appliquer:
 - soit une action physico-chimique telle que le chauffage ou le salage
 pour extraire le petit lait du caillé.
 
-Lors de la fabrication de la tomme par exemple, le caille est tranché en très petits morceaux, brassé en chauffant légèrement
+Lors de la fabrication de la tomme par exemple, le caillé est tranché en très petits morceaux, brassé en chauffant légèrement
 puis pressé. Ces trois actions permettent d'éliminer un maximum d'eau du fromage.
 
 La structure du caillé a aussi une influence sur l'évolution du fromage, mais laissons cet aspect pour un prochain article!
