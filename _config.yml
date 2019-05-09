@@ -1,20 +1,12 @@
 # --- General options --- #
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a GitHub project page then use these settings:
 url: "https://romaneg.github.io/cheese-in-the-city"
 baseurl: "/cheese-in-the-city"
-lang: 
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
-# Name of website
+lang: en_US, fr_FR
 title: Cheese in the city
 
 # Short description of your site
-description: a blog about natural fermentation to make cheese at home
+description: a blog about natural fermentation to make cheese at home, un blog sur la fabrication de fromage maison à partir de ferments naturels
 
 # --- Navigation bar options --- #
 
@@ -49,6 +41,7 @@ show-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
+logo: "https://romaneg.github.io/cheese-in-the-city/assets/img/logo_cheese-in-the-city-v3_big.png"
 title-img: "https://romaneg.github.io/cheese-in-the-city/assets/img/logo_cheese-in-the-city-v3_big.png"
 
 # --- Background colour/image options --- #
