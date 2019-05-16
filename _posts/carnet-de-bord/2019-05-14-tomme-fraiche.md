@@ -24,6 +24,10 @@ La tomme fraiche est issue de la fabrication du Cantal, du Salers ou du Laguiole
 Ces fromages sont réalisés à partir de caillé pressé et fermenté. La tomme fraiche n'est ni salée ni affinée. 
 Elle est fermentée assez de temps pour atteindre des propriétés élastiques exceptionnelles (un peu comme la mozzarelle).
 
+Les points clés pour obtenir un fromage bien filant sont les suivants:
+- trouver du lait de bonne qualité (si possible du lait cru et le plus frais possible)
+- trouver le moment où le fromage commence à filer en faisant des tests reguliers (voir le procédé de fabrication)
+
 
 ### Ingrédients
 
@@ -130,4 +134,4 @@ Utilisez le dans les 2-3 jours maximum (plus vous attendez et plus l'élasticit�
 *Tomme fraiche coupée en deux*
 
 Maintenant vous pouvez réaliser votre aligot et vous régaler ! 
-Voir la recette [ici]({{site.baseurl}}/2019/05/14/aligot.html).
+Voir la recette [ici]({{site.baseurl}}/2019/05/15/aligot.html).

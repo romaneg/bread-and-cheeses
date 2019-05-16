@@ -127,4 +127,4 @@ It continues to ferment in the fridge, but a lot slowlier than at room temperatu
 *Tomme fraiche half-cut*
 
 You can now prepare aligot et enjoy it!
-The recipe is given [here]({{site.baseurl}}/2019/05/14/aligot.html)
+The recipe is given [here]({{site.baseurl}}/2019/05/15/aligot-potatoes.html)
