@@ -111,24 +111,29 @@ Pressez à la main pour donner la forme du moule.
 
 **Temps : 5:00 +/- 1h, Température ambiante (~20°C)**
 
-Retournez le fromage plusieurs fois pour qu'il s'égoutte de manière uniforme.
+Laissez le fromage égoutter pendant environ 3h à température ambiante. 
+Retournez le fromage une ou deux fois pour qu'il s'égoutte de manière uniforme.
 
 **Temps : 06:00 +/- 5h, Température ambiante (~20°C)**
 
-Il est temps a présent de tester l'élasticité du caillé.
+Il est temps à présent de tester l'élasticité du caillé.
 En théorie, le caillé est élastique a un pH entre 5,0 et 5,3. Le lait a un pH de 6,8. 
 La fermentation du fromage fait augmenter l'acidité du caillé et donc diminuer le pH.
 Si vous avez un pH-mètre vous pouvez l'utiliser pour tester l'acidité du caillé. 
 Cependant il existe un test bien plus efficace.
+
+![Test d'étirement de la tomme fraiche]({{site.baseurl}}/assets/img/cheese/2019-05/stretch-curd-aligot.jpg)
+*Testez si votre fromage s'étire*
+
 Coupez un petit morceau de caillé et plongez le pendant 1-2 minutes dans un verre d'eau bouillante.
 Etirez ce morceau avec les doigts, replongez le dans l'eau chaude et étirez à nouveau, le caillé doit commencer à s'étirer facilement.
-Répétez plusieurs fois, vous devez pouvoir former un très long fil.
+Répétez plusieurs fois, vous devez pouvoir former un très long fil (voir photo ci-dessus).
 Si c'est le cas, votre tomme est prête pour faire l'aligot !
 Sinon, attendez 30min-1h et répétez le test jusqu'à réussite.
 
 Si vous ne pouvez pas l'utiliser tout de suite, emballez-le et mettez-le au frigo.
-Utilisez le dans les 2-3 jours maximum (plus vous attendez et plus l'élasticité diminue car le fromage continue à fermenter au frigo).
-
+Utilisez le dans les 3-4 jours maximum (plus vous attendez et plus l'élasticité diminue car le fromage continue à fermenter au frigo).
+Vous pouvez utiliser le meme test mentionné précédemment pour savoir si votre fromage file toujours.
 
 ![tomme fraiche coupée en deux]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_cut.JPG)
 *Tomme fraiche coupée en deux*

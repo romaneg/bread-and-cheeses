@@ -6,11 +6,11 @@ image: /assets/img/cheese/2019-05/puree-aligot_square.jpg
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: aligot
 lang: EN
-tags: [carnet-de-bord, fromage, tomme, cantal, aligot, recette]
+tags: [logbook, cheese, tomme, cantal, aligot, recipe]
 ---
 
-![puree d'aligot]({{site.baseurl}}/assets/img/cheese/2019-05/puree-aligot.jpg)
-*Purée and aligot*
+![puree d'aligot]({{site.baseurl}}/assets/img/cheese/2019-05/puree-tomme-fraiche.jpg)
+*Mashed potatoes and tomme fraiche: the two ingredients of aligot*
 
 <!--excerpt.start-->
 This article follows a recipe I just posted about how to make *tomme fraiche* (see [*recipe*]({{site.baseurl}}/2019/05/14/fresh-tomme.html)).
@@ -36,12 +36,27 @@ I tried twice before being able to succeed! I share with you the recipe in [here
 
 In this article I explain how to make aligot once your cheese is ready. It is fairly simple.
 
+### Test the stretching property of your *tomme fraiche*
+
+In theory fresh curd is elastic when its reaches a specific acidity (pH ranges between 5.0 and 5.3).
+You can taste it, it should be slightly acidic.
+If you have a pH-meter you can use it to test the acidity of your cheese but it is not necessary to buy one.
+To test that your cheese stretches properly you can do an easy test.
+
+![Stretching curd test]({{site.baseurl}}/assets/img/cheese/2019-05/stretch-curd-aligot.jpg)
+*Test if the curd is stretchable*
+
+Take a small piece of curd and put it into boiled water for about 1-2 minutes. 
+Then take the piece of cheese into your fingers and try to stretch it.
+Pour it into the water again and stretch it again. You should be able to stretch it into a long string (see picture above).
+If you are able to stretch the cheese, it is ready for aligot!
+
 
 ### Ingredients (for 4 persons)
 
 - 250g of tomme fraiche ([recipe]({{site.baseurl}}/2019/05/14/fresh-tomme.html))
 - 100g of butter
-- ~100g of *crème fraiche* *OR* ~50g of milk
+- ~100g of *crème fraiche* *OR* ~100g of milk
 - 1kg of potatoes (mealy, like Bintje)
 - pinch of salt
 
@@ -52,7 +67,7 @@ In this article I explain how to make aligot once your cheese is ready. It is fa
 
 ### Duration
 
-40 minutes
+30-40 minutes (does not include tomme fraiche preparation)
 
 ### Method
 
@@ -75,6 +90,10 @@ You make mashed potatoes. Then you warm it up and add the *tomme fraiche* while 
 6. Cut the tomme fraiche into fine slices (about 2mm width). Having fine slices allows the cheese to melt more easily.
 7. Warm up the mashed potatoes on the stove while stirring (to homogenize the temperature). Taste the temperature.
 8. Add the cheese in two or three times. Always stirr very softly, by incroporating the cheese and trying to stretch the cheese.
+
+![puree d'aligot]({{site.baseurl}}/assets/img/cheese/2019-05/puree-aligot.jpg)
+*Mashed potatoes and aligot*
+
 9. Stretch the preparation by rising up your spatula and continue stirring.
 10. When all the cheese is incroporated and the mash is very stretchy, it's ready to eat! Do not wait for serving. 
 You can eat it with a pork sausage as in the tradition, or any good meat or eggs.

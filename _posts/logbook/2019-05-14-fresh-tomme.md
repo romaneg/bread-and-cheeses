@@ -104,13 +104,16 @@ Remove whey from the pot with a laddle or a bowl without pressing the curd.
 Then you can take the curd with your hands and put it in a cheesecloth for draining.
 Shape the curd and press gently into a cheese mold.
 If you do not have a cheese mold, close the cheese cloth tightly.
-Place the cheese mold on a bowl or a drainer so that whey continues to drain.
+Place the cheese mold on a bowl or a drainer so that whey continues to drain for about 3 hours.
 
 **Time: 5:00 +/- 1h, Room temperature (~20°C)**
 
 It is now time to test that the curd stretches.
 In theory the curd is elastic when its pH ranges between 5.0 and 5.3.
 Milk has a pH of 6.8. The fermentation of the cheese curd increases the acidity and thus decreases the pH.
+
+![Stretching curd test]({{site.baseurl}}/assets/img/cheese/2019-05/stretch-curd-aligot.jpg)
+*Test if the curd is stretchable*
 
 If you have a pH-meter you can use it to test the acidity of your cheese but it is not necessary to buy one.
 You can take a small piece of curd and put it into boiled water for about 2 minutes. 
