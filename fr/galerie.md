@@ -10,6 +10,8 @@ Voici un apercu des fromages que j'ai réalisés jusqu'ici:
 - fromages qui ont été [mangés](#ont-été-mangés)
 - fromages qui ont [terminé dans la poubelle](#ont-terminé-dans-la-poubelle)
 
+Les dates indiquées correspondent à la date de réalisation des fromages.
+
 <span style="line-height:10px;"><br></span> 
 # En cours d'affinage
 ---
@@ -44,17 +46,19 @@ Lait cru, cave à fromage (11°C)
 
 ### 23 avril 2019, mini-camembert
 
-Lait pasteurisé et kéfir,cave à fromage (11°C)
+Lait pasteurisé et kéfir, cave à fromage (11°C)
 
 ![mini-camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-04-19_camembert-kefir-1.JPG)
 <span style="line-height:10px;"><br></span> 
 
-### 23 avril 2019, fromage coulant
 
-Lait pasteurisé et kéfir, cave à fromage (11°C)
+### 11 mai 2019, camemberts
 
-![very soft camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-04-19_camembert-kefir-2.JPG)
+Lait cru & clabber, cave à fromage (11°C)
+
+![camemberts]({{site.baseurl}}/assets/img/cheese/gallery/aging/19-05-12_camemberts-raw-milk.jpg)
 <span style="line-height:10px;"><br></span> 
+
 
 ---
 
@@ -129,6 +133,30 @@ Lait pasteurisé et kéfir
 
 ![mozzarelle]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-04-20_mozzarella.JPG)
 <span style="line-height:10px;"><br></span> 
+
+### 23 avril 2019, fromage coulant
+
+Lait de vache pasteurisé & kefir, affiné 4 semaines
+
+![fromage coulant]({{site.baseurl}}/assets/img/cheese/gallery/eaten/23-04-23_runny-cheese-kefir.jpg)
+<span style="line-height:10px;"><br></span> 
+
+
+### 12 mai 2019, tomme fraiche pour aligot
+
+Lait cru & clabber+kefir, affiné 7 heures
+
+![tomme fraiche pour aligot]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### 12 mai 2019, mozzarelle
+
+Lait cru et kéfir+clabber
+
+![mozzarelle faite maison]({{site.baseurl}}/assets/img/cheese/gallery/eaten/19-05-12_mozzarella-lait-cru.jpg)
+<span style="line-height:10px;"><br></span> 
+
 
 ---
 

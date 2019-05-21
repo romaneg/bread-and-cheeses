@@ -10,6 +10,9 @@ Here is an overview of the cheeses I have made:
 - cheeses that have been [eaten](#eaten)
 - cheeses that [failed](#failed---ended-up-in-the-bin)
 
+Dates correspond to the day of making.
+
+
 <span style="line-height:10px;"><br></span> 
 # Aging in the cave
 ---
@@ -54,6 +57,14 @@ Pasteurized cow milk & kefir, in the cheese cave (11°C)
 Pasteurized cow milk & kefir, in the cheese cave (11°C)
 
 ![very soft camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-04-19_camembert-kefir-2.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### May 11th 2019, camemberts
+
+Raw cow milk & clabber, in the cheese cave (11°C)
+
+![camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/19-05-12_camemberts-raw-milk.jpg)
 <span style="line-height:10px;"><br></span> 
 
 ---
@@ -129,6 +140,30 @@ Pasteurized cow milk & kefir
 Pasteurized cow milk & kefir
 
 ![mozzarelle]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-04-20_mozzarella.JPG)
+<span style="line-height:10px;"><br></span>
+
+
+### April 23rd 2019, runny cheese
+
+Pasteurized cow milk & kefir, aged 4 weeks
+
+![runny cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/23-04-23_runny-cheese-kefir.jpg)
+<span style="line-height:10px;"><br></span> 
+
+
+### May 12nd 2019, tomme fraiche for aligot
+
+Raw cow milk & clabber+kefir, aged 7 hours
+
+![tomme fraiche for aligot]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### May 12th 2019, mozzarelle
+
+Raw milk & kefir+clabber
+
+![homemade mozzarelle]({{site.baseurl}}/assets/img/cheese/gallery/eaten/19-05-12_mozzarella-lait-cru.jpg)
 <span style="line-height:10px;"><br></span> 
 
 ---
