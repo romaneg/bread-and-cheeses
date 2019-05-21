@@ -52,13 +52,6 @@ Pasteurized cow milk & kefir, in the cheese cave (11°C)
 ![mini-camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-04-19_camembert-kefir-1.JPG)
 <span style="line-height:10px;"><br></span> 
 
-### April 23th 2019, very soft cheese
-
-Pasteurized cow milk & kefir, in the cheese cave (11°C)
-
-![very soft camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-04-19_camembert-kefir-2.JPG)
-<span style="line-height:10px;"><br></span> 
-
 
 ### May 11th 2019, camemberts
 
