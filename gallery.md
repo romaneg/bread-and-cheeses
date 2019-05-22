@@ -144,7 +144,7 @@ Pasteurized cow milk & kefir, aged 4 weeks
 <span style="line-height:10px;"><br></span> 
 
 
-### May 12nd 2019, tomme fraiche for aligot
+### May 12th 2019, tomme fraiche for aligot
 
 Raw cow milk & clabber+kefir, aged 7 hours
 
