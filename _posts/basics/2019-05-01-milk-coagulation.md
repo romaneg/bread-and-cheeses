@@ -127,7 +127,7 @@ Those four actions help eliminating moisture from the cheese.
 Curd structure has also an influence on cheese evolution, but we will see that in another article!
 
 
-### Références
+### References
 
 - [La composition du lait](https://fr.wikipedia.org/wiki/Lait_de_vache), Wikipedia
 - [Le lait et sa coagulation](https://www.youlab.fr/blog/ressources-scientifiques-bibliographie/le-lait-et-sa-coagulation/), Florian Ronez 
