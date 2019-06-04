@@ -61,7 +61,7 @@ Humans always have interactions on their environment that be in a laboratory or 
 The term *wild* does not seem very appropriate either. 
 Even by cultivating your own starter culture you also select some micro-organisms that can be very different from the organisms you had from the start.
 
-We can identify four different types of non-industrial starter cultures:
+We can identify three different types of non-industrial starter cultures:
 - backslopping (of whey or fermented milk, also called clabber sometimes)
 - kefir grains
 - tools, ustensils
@@ -77,6 +77,7 @@ For lactic goat cheesemaking in France it is usual to take a small portion of wh
 It is also possible to make a sort of yogourt (or clabbered milk) and use it as a starter (see Parish Hill Creamery approach[<sup>5</sup>](#5)).
 
 Some people also start using kefir grains (see [this article]({{site.baseurl}}/2019/03/04/starter-kit.html)) as an alternative. 
+This method has been popularized by David Asher (see [resources]({{site.baseurl}}/resources.html)).
 For people who make cheese at home a few times per month, this presents the advantage of having a source of culture that is easy to take care of.
 
 
@@ -107,3 +108,4 @@ D. Kim et al., LWT, 2018
 
 <a class="anchor" id="6">[6]</a> [Laboratoire inter-professionnel de production](https://www.lip-sas.fr/)
 
+[7] The art of natural cheesemaking, David Asher, Chelsea Green Publishing, 2017

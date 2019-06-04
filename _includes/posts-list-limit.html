@@ -7,7 +7,7 @@
             Derniers articles
         {% endif %}
     </h1>
-    {% for post in site.posts limit:6 %}
+    {% for post in site.posts limit:10 %}
         {% if post.lang == lang %}
             {% include post-preview.html lang=lang %}
         {% endif %}
