@@ -17,13 +17,6 @@ Dates correspond to the day of making.
 # Aging in the cave
 ---
 
-### March 2nd 2019, Blue-Camembert
-
-Pasteurized cow milk & kefir, wrapped in paper in a box, in the fridge (9°C)
-
-![camembert with kefir]({{site.baseurl}}/assets/img/cheese/gallery/aging/02-03-19_camember-kefir-3.jpg)
-<span style="line-height:10px;"><br></span> 
-
 ### March 23th 2019, Alpine-style tomme
 
 Pasteurized cow milk & kefir, in the fridge (9°C)
@@ -38,26 +31,28 @@ Pasteurized cow milk & kefir, in the fridge (9°C)
 ![Tomme with kefir - 2]({{site.baseurl}}/assets/img/cheese/gallery/aging/26-03-19_tomme-kefir.JPG)
 <span style="line-height:10px;"><br></span> 
 
-### March 31st 2019, blue-white-red cheese
-
-Raw cow milk, in the cheese cave (11°C)
-
-![blue-white-red cheese]({{site.baseurl}}/assets/img/cheese/gallery/aging/31-03-19_lait-cru.JPG)
-<span style="line-height:10px;"><br></span> 
-
-### April 23th 2019, mini-camembert
-
-Pasteurized cow milk & kefir, in the cheese cave (11°C)
-
-![mini-camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-04-19_camembert-kefir-1.JPG)
-<span style="line-height:10px;"><br></span> 
-
 
 ### May 11th 2019, camemberts
 
 Raw cow milk & clabber, in the cheese cave (11°C)
 
 ![camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/19-05-12_camemberts-raw-milk.jpg)
+<span style="line-height:10px;"><br></span> 
+
+
+### May 22nd 2019, mini-camembert
+
+Pasteurized cow milk & clabber+kefir, in the fridge (9°C)
+
+![camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/22-05-2019_petit-camembert.jpg)
+<span style="line-height:10px;"><br></span> 
+
+
+### May 26th 2019, lactic cheese
+
+Raw milk & clabber + frozen whey + small piece of blue cheese, in the fridge (12°C)
+
+![lactic]({{site.baseurl}}/assets/img/cheese/gallery/aging/26-05-2019_lactique.jpg)
 <span style="line-height:10px;"><br></span> 
 
 ---
@@ -140,7 +135,7 @@ Pasteurized cow milk & kefir
 
 Pasteurized cow milk & kefir, aged 4 weeks
 
-![runny cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/23-04-23_runny-cheese-kefir.jpg)
+![runny cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/23-04-19_camembert-kefir.jpg)
 <span style="line-height:10px;"><br></span> 
 
 
@@ -157,6 +152,30 @@ Raw cow milk & clabber+kefir, aged 7 hours
 Raw milk & kefir+clabber
 
 ![homemade mozzarelle]({{site.baseurl}}/assets/img/cheese/gallery/eaten/19-05-12_mozzarella-lait-cru.jpg)
+<span style="line-height:10px;"><br></span>
+
+
+### March 31st 2019, blue-white-red cheese
+
+Raw cow milk, aged 2months
+
+![blue-white-red cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/31-03-19_lait-cru.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### May 26th 2019, lactic cheese
+
+Raw milk & clabber + frozen whey + small piece of blue cheese, ripened 2 weeks
+
+![lactic]({{site.baseurl}}/assets/img/cheese/gallery/eaten/26-05-2019_lactique-2.jpg)
+<span style="line-height:10px;"><br></span>
+
+
+### June 6th 2019, mettons for cancoillotte
+
+Pasteurized non homogenized milk & clabber, ripened 1 week
+
+![mettons for cancoillotte]({{site.baseurl}}/assets/img/cheese/gallery/eaten/06-06-2019_metons.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ---

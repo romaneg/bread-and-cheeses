@@ -16,13 +16,6 @@ Les dates indiquées correspondent à la date de réalisation des fromages.
 # En cours d'affinage
 ---
 
-### 2 mars 2019, camembert-bleu
-
-Lait pasteurisé et kéfir, emballé dans du papier et mis en boite, au frigo (9°C)
-
-![camembert-bleu au kefir]({{site.baseurl}}/assets/img/cheese/gallery/aging/02-03-19_camember-kefir-3.jpg)
-<span style="line-height:10px;"><br></span> 
-
 ### 23 mars 2019, tomme
 
 Lait pasteurisé et kéfir, au frigo (9°C)
@@ -37,20 +30,6 @@ Lait pasteurisé et kéfir, au frigo (9°C)
 ![Tomme au kefir - 2]({{site.baseurl}}/assets/img/cheese/gallery/aging/26-03-19_tomme-kefir.JPG)
 <span style="line-height:10px;"><br></span> 
 
-### 31 mars 2019, bleu-blanc-rouge
-
-Lait cru, cave à fromage (11°C)
-
-![blue-white-red cheese]({{site.baseurl}}/assets/img/cheese/gallery/aging/31-03-19_lait-cru.JPG)
-<span style="line-height:10px;"><br></span> 
-
-### 23 avril 2019, mini-camembert
-
-Lait pasteurisé et kéfir, cave à fromage (11°C)
-
-![mini-camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-04-19_camembert-kefir-1.JPG)
-<span style="line-height:10px;"><br></span> 
-
 
 ### 11 mai 2019, camemberts
 
@@ -59,6 +38,20 @@ Lait cru & clabber, cave à fromage (11°C)
 ![camemberts]({{site.baseurl}}/assets/img/cheese/gallery/aging/19-05-12_camemberts-raw-milk.jpg)
 <span style="line-height:10px;"><br></span> 
 
+
+### 22 mai 2019, mini-camembert
+
+Lait cru & clabber+kéfir, au frigo (9°C)
+
+![mini-camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/22-05-2019_petit-camembert.jpg)
+<span style="line-height:10px;"><br></span>
+
+### 26 mai 2019, lactiques
+
+Lait cru & clabber + petit-lait congelé + petit bout de bleu, cave à fromage (12°C)
+
+![fromages lactiques]({{site.baseurl}}/assets/img/cheese/gallery/aging/26-05-2019_lactique.jpg)
+<span style="line-height:10px;"><br></span> 
 
 ---
 
@@ -138,7 +131,7 @@ Lait pasteurisé et kéfir
 
 Lait de vache pasteurisé & kefir, affiné 4 semaines
 
-![fromage coulant]({{site.baseurl}}/assets/img/cheese/gallery/eaten/23-04-23_runny-cheese-kefir.jpg)
+![fromage coulant]({{site.baseurl}}/assets/img/cheese/gallery/eaten/23-04-19_camembert-kefir.jpg)
 <span style="line-height:10px;"><br></span> 
 
 
@@ -157,6 +150,29 @@ Lait cru et kéfir+clabber
 ![mozzarelle faite maison]({{site.baseurl}}/assets/img/cheese/gallery/eaten/19-05-12_mozzarella-lait-cru.jpg)
 <span style="line-height:10px;"><br></span> 
 
+
+### 31 mars 2019, mini-tomme
+
+Lait cru, affiné 2 mois
+
+![mini-tomme]({{site.baseurl}}/assets/img/cheese/gallery/eaten/31-03-19_lait-cru.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### 26 mai 2019, lactiques
+
+Lait cru & clabber + petit-lait congelé + petit bout de bleu, affiné 2 semaines
+
+![fromages lactiques]({{site.baseurl}}/assets/img/cheese/gallery/eaten/26-05-2019_lactique-2.jpg)
+<span style="line-height:10px;"><br></span> 
+
+
+### 6 juin 2019, metton pour cancoillotte
+
+Lait pasteurisé non homogénéisé & clabber, affiné 1 semaine
+
+![mettons pour cancoillotte]({{site.baseurl}}/assets/img/cheese/gallery/eaten/06-06-2019_metons.JPG)
+<span style="line-height:10px;"><br></span> 
 
 ---
 
