@@ -2,7 +2,7 @@
 layout: post
 title: Du lait fermenté comme culture d'amorcage
 subtitle: Faire son levain de lait pour faire ses fromages
-image: /assets/img/cheese/2019-06/clabber-starter_square.JPG
+image: /assets/img/cheese/2019-06/clabber-starter_square.jpg
 permalink: /:categories/:year/:month/:day/:title:output_ext
 tags: [bases, ingredients, cultures, ferments]
 ref: clabber
@@ -28,7 +28,8 @@ C'est important à comprendre pour bien entretenir vos ferments.
 Pour faire votre culture d'amorçage, que nous nommerons aussi *clabber* (lait fermenté), vous pouvez soit en obtenir d'une connaissance ou le fabriquer vous-même à partir de lait cru.
 Il est important de mentionner que vous ne pouvez faire votre culture d'amorçage qu'à partir de lait cru.
 
-Procurez-vous du lait cru et laissez environ 200ml à température ambiante pendant environ 2 jours (à partir de la traite).
+Procurez-vous du lait cru et laissez environ 200ml à température ambiante pendant environ 2 jours (à partir de la traite). 
+Recouvrez avec un couvercle ou autre pour ne pas contaminer votre culture.
 Votre culture est prête lorsque le lait a coagulé (voir photo ci-dessus).
 Le lait forme une sorte de gelée. Le gout ressemble à celui du yaourt, avec une petite pointe d'acidité.
 
