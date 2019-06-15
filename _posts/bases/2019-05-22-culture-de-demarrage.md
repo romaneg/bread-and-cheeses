@@ -73,7 +73,7 @@ Quant au terme *sauvage* il est encore moins approprié.
 En cultivant vos propres ferments vous faites aussi votre propre sélection de micro-organismes qui peuvent devenir très différents de vos populations de départ.
 
 Il y a différentes façons d'utiliser des ferment endogènes :
-- par repiquage, soit de petit lait ou de lait fermente 
+- par repiquage, soit de petit lait ou de [lait fermente]({{site.baseurl}}/2019/06/14/faire-son-levain-de-lait.html)
 - avec des grains de kéfir
 - avec des ustensiles entrant en contact avec le lait
 

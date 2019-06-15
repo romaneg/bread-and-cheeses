@@ -62,7 +62,7 @@ The term *wild* does not seem very appropriate either.
 Even by cultivating your own starter culture you also select some micro-organisms that can be very different from the organisms you had from the start.
 
 We can identify three different types of non-industrial starter cultures:
-- backslopping (of whey or fermented milk, also called clabber sometimes)
+- backslopping (of whey or [fermented milk](({{site.baseurl}}/2019/06/14/make-your-own-starter.html)), also called [clabber](({{site.baseurl}}/2019/06/14/make-your-own-starter.html)) sometimes)
 - kefir grains
 - tools, ustensils
 
