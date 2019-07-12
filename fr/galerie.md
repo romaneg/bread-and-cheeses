@@ -16,21 +16,6 @@ Les dates indiquées correspondent à la date de réalisation des fromages.
 # En cours d'affinage
 ---
 
-### 23 mars 2019, tomme
-
-Lait pasteurisé et kéfir, au frigo (9°C)
-
-![Tomme au kefir]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-03-19_tomme-kefir.JPG)
-<span style="line-height:10px;"><br></span> 
-
-### 26 mars 2019, tomme
-
-Lait pasteurisé et kéfir, au frigo (9°C)
-
-![Tomme au kefir - 2]({{site.baseurl}}/assets/img/cheese/gallery/aging/26-03-19_tomme-kefir.JPG)
-<span style="line-height:10px;"><br></span> 
-
-
 ### 11 mai 2019, camemberts
 
 Lait cru & clabber, cave à fromage (11°C)
@@ -38,19 +23,27 @@ Lait cru & clabber, cave à fromage (11°C)
 ![camemberts]({{site.baseurl}}/assets/img/cheese/gallery/aging/19-05-12_camemberts-raw-milk.jpg)
 <span style="line-height:10px;"><br></span> 
 
-
-### 22 mai 2019, mini-camembert
-
-Lait cru & clabber+kéfir, au frigo (9°C)
-
-![mini-camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/22-05-2019_petit-camembert.jpg)
-<span style="line-height:10px;"><br></span>
-
 ### 26 mai 2019, lactiques
 
 Lait cru & clabber + petit-lait congelé + petit bout de bleu, cave à fromage (12°C)
 
 ![fromages lactiques]({{site.baseurl}}/assets/img/cheese/gallery/aging/26-05-2019_lactique.jpg)
+<span style="line-height:10px;"><br></span> 
+
+
+### 9 juin 2019, lactiques
+
+Lait cru & clabber, cave à fromage 2 semaines (12°C) puis frigo 2 semaines (9°C)
+
+![lactiques]({{site.baseurl}}/assets/img/cheese/gallery/aging/2019-06-09_lactiques-1month-1.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### 9 juin 2019, tommettes
+
+Lait cru & clabber, cave à fromage 2 semaines (12°C) puis frigo 2 semaines (9°C)
+
+![tommettes]({{site.baseurl}}/assets/img/cheese/gallery/aging/2019-06-09_semi-dur_1month.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ---
@@ -164,6 +157,10 @@ Lait cru, affiné 2 mois
 Lait cru & clabber + petit-lait congelé + petit bout de bleu, affiné 2 semaines
 
 ![fromages lactiques]({{site.baseurl}}/assets/img/cheese/gallery/eaten/26-05-2019_lactique-2.jpg)
+
+Lait cru & clabber + petit-lait congelé + petit bout de bleu, affiné 1 mois
+
+![fromages lactiques]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-05-27_lactiques-1month.JPG)
 <span style="line-height:10px;"><br></span> 
 
 
@@ -172,6 +169,35 @@ Lait cru & clabber + petit-lait congelé + petit bout de bleu, affiné 2 semaine
 Lait pasteurisé non homogénéisé & clabber, affiné 1 semaine
 
 ![mettons pour cancoillotte]({{site.baseurl}}/assets/img/cheese/gallery/eaten/06-06-2019_metons.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### 22 mai 2019, mini-camembert
+
+Lait cru & clabber+kéfir, affinage 1 mois, au frigo (9°C)
+
+![mini-camembert]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-05-22_camembert_1month.JPG)
+<span style="line-height:10px;"><br></span>
+
+
+### 12 mai 2019, pates molles semi-lactiques
+
+Lait cru & clabber, cave à fromage (11°C), fin d'affinage en boite hermetique, 6 semaines
+
+![pates molles semi-lactiques]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-05-12_pate-molle-6weeks-1.JPG)
+
+Lait cru & clabber, cave à fromage (11°C), fin d'affinage dans papier ciré et boite à camembert, 6 semaines
+
+![pates molles semi-lactiques]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-05-12_pate-molle-6weeks-2.JPG)
+
+<span style="line-height:10px;"><br></span> 
+
+
+### 6 juin 2019, lactiques
+
+Lait cru & clabber, cave à fromage 2 semaines (12°C) puis frigo 2 semaines (9°C)
+
+![lactiques]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-06-09_lactiques-1month-2.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ---
@@ -206,3 +232,17 @@ Lait pasteurisé et kéfir
 
 ![St-Marcellin]({{site.baseurl}}/assets/img/cheese/gallery/failed/26-03-19_StMarcellin-kefir.JPG)
 <span style="line-height:10px;"><br></span> 
+
+### 23 mars 2019, tomme
+
+Lait pasteurisé et kéfir, affinage 3 mois
+
+![Tomme au kefir]({{site.baseurl}}/assets/img/cheese/gallery/failed/2019-03-23_tomme-kefir_3months.JPG)
+<span style="line-height:10px;"><br></span> 
+
+### 26 mars 2019, tomme
+
+Lait pasteurisé et kéfir, affinage 3 mois
+
+![Tomme au kefir - 2]({{site.baseurl}}/assets/img/cheese/gallery/failed/2019-03-26_tomme-kefir_3months.JPG)
+<span style="line-height:10px;"><br></span>

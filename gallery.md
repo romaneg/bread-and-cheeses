@@ -17,21 +17,6 @@ Dates correspond to the day of making.
 # Aging in the cave
 ---
 
-### March 23th 2019, Alpine-style tomme
-
-Pasteurized cow milk & kefir, in the fridge (9°C)
-
-![Tomme with kefir]({{site.baseurl}}/assets/img/cheese/gallery/aging/23-03-19_tomme-kefir.JPG)
-<span style="line-height:10px;"><br></span> 
-
-### March 26th 2019, Alpine-style tomme
-
-Pasteurized cow milk & kefir, in the fridge (9°C)
-
-![Tomme with kefir - 2]({{site.baseurl}}/assets/img/cheese/gallery/aging/26-03-19_tomme-kefir.JPG)
-<span style="line-height:10px;"><br></span> 
-
-
 ### May 11th 2019, camemberts
 
 Raw cow milk & clabber, in the cheese cave (11°C)
@@ -40,20 +25,29 @@ Raw cow milk & clabber, in the cheese cave (11°C)
 <span style="line-height:10px;"><br></span> 
 
 
-### May 22nd 2019, mini-camembert
-
-Pasteurized cow milk & clabber+kefir, in the fridge (9°C)
-
-![camembert]({{site.baseurl}}/assets/img/cheese/gallery/aging/22-05-2019_petit-camembert.jpg)
-<span style="line-height:10px;"><br></span> 
-
-
 ### May 26th 2019, lactic cheese
 
 Raw milk & clabber + frozen whey + small piece of blue cheese, in the fridge (12°C)
 
 ![lactic]({{site.baseurl}}/assets/img/cheese/gallery/aging/26-05-2019_lactique.jpg)
+<span style="line-height:10px;"><br></span>
+
+
+### June 9th 2019, lactic cheese
+
+Raw milk & clabber, in the cheese cave 2 weeks (12°C) then fridge 2 weeks (9°C)
+
+![lactic]({{site.baseurl}}/assets/img/cheese/gallery/aging/2019-06-09_lactiques-1month-1.JPG)
 <span style="line-height:10px;"><br></span> 
+
+
+### June 9th 2019, tommettes
+
+Raw milk & clabber, in the cheese cave 2 weeks (12°C) then fridge 2 weeks (9°C)
+
+![tommettes]({{site.baseurl}}/assets/img/cheese/gallery/aging/2019-06-09_semi-dur_1month.JPG)
+<span style="line-height:10px;"><br></span> 
+
 
 ---
 
@@ -168,6 +162,10 @@ Raw cow milk, aged 2months
 Raw milk & clabber + frozen whey + small piece of blue cheese, ripened 2 weeks
 
 ![lactic]({{site.baseurl}}/assets/img/cheese/gallery/eaten/26-05-2019_lactique-2.jpg)
+
+Raw milk & clabber + frozen whey + small piece of blue cheese, ripened 1 month
+
+![lactic]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-05-27_lactiques-1month.JPG)
 <span style="line-height:10px;"><br></span>
 
 
@@ -176,6 +174,34 @@ Raw milk & clabber + frozen whey + small piece of blue cheese, ripened 2 weeks
 Pasteurized non homogenized milk & clabber, ripened 1 week
 
 ![mettons for cancoillotte]({{site.baseurl}}/assets/img/cheese/gallery/eaten/06-06-2019_metons.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### May 22nd 2019, mini-camembert
+
+Pasteurized cow milk & clabber+kefir, aged 1 month, in the fridge (9°C)
+
+![camembert]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-05-22_camembert_1month.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### May 11th 2019, soft cheese
+
+Raw cow milk & clabber, in the cheese cave (11°C), aged 6 weeks, last weeks in closed box in the fridge
+
+![soft cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-05-12_pate-molle-6weeks-1.JPG)
+
+Raw cow milk & clabber, in the cheese cave (11°C), aged 6 weeks, last weeks in paper and in camembert woodbox in the fridge
+
+![soft cheese]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-05-12_pate-molle-6weeks-2.JPG)
+<span style="line-height:10px;"><br></span> 
+
+
+### June 6th 2019, lactic cheese
+
+Raw milk & clabber, in the cheese cave 2 weeks (12°C) then fridge 2 weeks (9°C)
+
+![lactic]({{site.baseurl}}/assets/img/cheese/gallery/eaten/2019-06-09_lactiques-1month-2.JPG)
 <span style="line-height:10px;"><br></span> 
 
 ---
@@ -209,4 +235,18 @@ Pasteurized cow milk & kefir
 Pasteurized cow milk & kefir
 
 ![St-Marcellin]({{site.baseurl}}/assets/img/cheese/gallery/failed/26-03-19_StMarcellin-kefir.JPG)
+<span style="line-height:10px;"><br></span>
+
+### March 23th 2019, Alpine-style tomme
+
+Pasteurized cow milk & kefir, aged 3 months
+
+![Tomme with kefir]({{site.baseurl}}/assets/img/cheese/gallery/failed/2019-03-23_tomme-kefir_3months.JPG)
+<span style="line-height:10px;"><br></span> 
+
+### March 26th 2019, Alpine-style tomme
+
+Pasteurized cow milk & kefir, aged 3 months
+
+![Tomme with kefir - 2]({{site.baseurl}}/assets/img/cheese/gallery/failed/2019-03-26_tomme-kefir_3months.JPG)
 <span style="line-height:10px;"><br></span> 
