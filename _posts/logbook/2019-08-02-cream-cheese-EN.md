@@ -51,21 +51,27 @@ For about 150g of cream cheese:
 
 ### Recipe
 
-1.Mix the milk and the cream with the ferment. Be sure that your ferment is active (feed it about 12h-24h before using).
+1.Be sure that your ferment is active (feed it about 12h-24h before using). Mix the milk and the cream with the ferment in a bowl or glass jar.
+
+2.Let it covered at room temperature during about 10h (if room temperature is ~25°C). 
+The cream will thicken slowlier if the temperature is lower. If so, wait longer.
 
 ![cream cheese first steps]({{site.baseurl}}/assets/img/cheese/2019-08/cream-cheese_part1.jpg)
+*Top left: milk+cream fermented, ready. Bottom left: mixture poured in muslin. Top right: mixture in muslin let to drain in a big jar.
+Bottom right: the mixture is ready to be mixed with salt.*
 
-2.Let the bowl at room temperature during about 10h (if room temperature is ~25°C). 
-The cream will thicken slowlier if the temperature is lower, wait longer.
+3.When it is ready, pour to a muslin and let drain in your fridge (to slow down fermentation) for several hours. I use a big jar with an elastic band, I find it very convenient.
+You can also use a colander or equivalent.
 
-3.When it is ready, pour to a muslin and let drain in your fridge (to slow down fermentation) for several hours. 
-There should be very clear whey in the bottom of your container.
+4.There should be very clear whey in the bottom of your containerand water has stopped dripping. The mixture is very creamy, like very thick sour cream.
+Then mix with salt, pour into the muslin again and let drain one more time for several hours.
 
 ![cream cheese next steps]({{site.baseurl}}/assets/img/cheese/2019-08/cream-cheese_part2.jpg)
+*Top left: mix with salt. Top right: let drain again for a few hours. Bottom left: cream cheese is ready. Bottom right: store in a container in your fridge.*
 
-4.Then mix with salt and let drain one more time for several hours.
+5.Remove from the muslin, store in a container in your fridge. 
 
-5.It is ready to eat! Delicious on bread.
+6.It is ready to eat! Delicious on bread.
 
 **Tip**: use the whey to water your plants!
 
