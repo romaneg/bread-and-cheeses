@@ -36,7 +36,7 @@ So simple, so good!
 For about 150g of cream cheese:
 - 140g of [heavy cream]({{site.baseurl}}/2019/06/04/creme-fraiche-EN.html) (freshest as possible, check the best-buy date)
 - 300g of [milk]({{site.baseurl}}/2019/03/02/raw-milk.html) (it works with raw and pasteurized milk)
-- 5ml (or a small spoon) of fermented milk ([clabber]({{site.baseurl}}/2019/06/14/make-your-own-starter.html), kefir or buttermilk)
+- 5ml (or a small spoon) of fermented milk ([clabber]({{site.baseurl}}/2019/06/14/make-your-own-clabber.html), kefir or buttermilk)
 - 1g of salt
 
 ### Material
