@@ -4,7 +4,7 @@ title: Homemade cream cheese
 subtitle: Only milk and cream
 image: /assets/img/cheese/2019-08/homemade-cream-cheese-square.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
-ref: creme-fraiche
+ref: cream-cheese
 lang: EN
 tags: [logbook, cream cheese, cheese, recipe]
 ---
