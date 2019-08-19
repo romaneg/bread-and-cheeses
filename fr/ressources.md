@@ -19,6 +19,13 @@ Un livre américain, non traduit en français à ma connaissance. Premier livre 
 Le livre donne toutes les bases de la fermentation, matériel, techniques. 
 Les recettes données sont classifiées en fonction de la difficulté et adaptées à de petites quantités de lait (entre 2L et 4L en générale).
 
+#### *[Le guide de l'affinage](https://www.professionfromager.com/vpc-guides/)*, Arnaud Sperat-Czar, Sébastien Roustel, Débora Pereira and Bernard Mietton, Profession Fromager, 2014
+
+Livre technique sur l'affinage. Ce livre est à destination des professionnels mais toutes les explications et conseils sont tout à fait pertinents pour
+les particuliers. Le livre combine explications scientifiques, témoignages de professionnels, diagrammes etc.
+En moins de 200 pages, ce petit livre explique les essentiels sur la température, la ventilation, l'humidité, les types de caves, les accidents d'affinage...
+Il fournit aussi des fiches d'affinage pour plusieurs types de fromages (crottins, triple-creme, époisses, camembert, roqueftors, reblochon etc.)
+
 #### *The science of cheese*, Michael H. Tunick, Oxford University Press, 2014
 
 Livre en anglais, non traduit en français à ma connaissance.
@@ -41,7 +48,7 @@ Je recommande cette lecture à tous les mysophobiques et adeptes de la stérilis
 ## Recettes
 ---
 
-Gavin Weber [chaine youtube](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA)
+**Gavin Weber - [chaine youtube](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA)**
 <span style="line-height:10px;"><br></span>
 Une tonne de vidéos étapes par étape de Gavin Weber, Australien (le nerd du fromage !).
 Gavin partage ses recettes, les évolutions de ses fromages, des astuces, des dégustations etc. 

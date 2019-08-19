@@ -21,6 +21,14 @@ To the best of my knowledge, this is the first book that ever talked about how t
 This book is a very good resource about milk, fermentation, material, techniques. It also gives a lot of different recipes, classified by level of difficulty. 
 The recipes are adapted to small quantities of milk (2l to 4L), which makes it ideal when starting cheesemaking at home.
 
+#### *[Cheese ripening guide](https://www.professionfromager.com/vpc-guide-va/)*, Arnaud Sperat-Czar, Sébastien Roustel, Débora Pereira and Bernard Mietton, Profession Fromager, 2014
+
+Technical book on ripening. I love this book! I only know the French version, which is an incredible source of information (I hope it is the same for the English version).
+This book is written for professional cheesemakers but still, home cheesemakers can learn a lot.
+It combines scientific explanations, testimonies from professionals, diagrams etc.
+It is all about how to ripen your cheeses from temperature, ventilation, humidity, cave types, sowing a new cave, failures understanding...
+There are also ripening explanations for many different types of cheeses (crottins, triple-cream, époisses, camembert, roqueftors, reblochon etc.)
+
 #### *The science of cheese*, Michael H. Tunick, Oxford University Press, 2014
 
 This book is about making accessible de scientific aspects of milk, curd and cheese making. 
@@ -44,7 +52,7 @@ I recommend this reading to every bacteria phobics and other sterilization addic
 ## Recipes
 ---
 
-Gavin Weber [youtube channel](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA)
+**Gavin Weber - [youtube channel](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA)**
 <span style="line-height:10px;"><br></span> 
 Many many videos with step-by-step cheese making recipes, cheese degustations. Very funny guy (probably the Australian sense of humour!). 
 Wonderful ressource, tips, visual examples. (recipes with pasteurized milk, additives and industrial cultures/molds though...)
@@ -64,7 +72,7 @@ Wonderful ressource, tips, visual examples. (recipes with pasteurized milk, addi
 ## Find raw milk
 ---
 
-### US
+#### US
 
 **Finding raw milk in Massachussets** - 
 [List and map of raw milk dairies](https://www.nofamass.org/raw-milk)
@@ -75,7 +83,7 @@ Wonderful ressource, tips, visual examples. (recipes with pasteurized milk, addi
 <span style="line-height:10px;"><br></span> 
 [Self-service farm store](http://www.brookfordfarm.com/farm-store) open 7 days 7am-7pm
 
-### France
+#### France
 
 **Open markets**
 
