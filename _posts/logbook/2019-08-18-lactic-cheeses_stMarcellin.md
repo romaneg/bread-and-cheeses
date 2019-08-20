@@ -30,19 +30,19 @@ I cannot name my cheeses *Saint-Marcellin* but they follow approximately the sam
 I made several trials before coming to this recipe. After a few failures I realized how important was the milk and the ferments.
 Then I adapted the temperature and humidity profiles, as well as the material used for ripening the cheeses.
 When writing this article I checked the requirements of the protected designation of origin for the Saint-Marcellin and I was very surprised
-and happy to discover that my recipe is very close to it![<sup>2</sup>](#2)
+and happy to discover that my recipe is very close to it[<sup>2</sup>](#2)!
 
 I love this recipe for many reasons:
 - it allows me to get raw milk Saint-Marcellin-style cheese that cannot be found in the US
-- it is a versatile recipe, that can be used with goat or cow milk, different types of mold
+- it is a versatile recipe: it can be used with goat or cow milk, with different types of mold, you can interact them with natural material (ash, leaves, bark)
 - it does not need any external and *terroir*-related micro-organisms (like mucor for Saint-Nectaire or penicillium roqueforti for blue cheese)
 - it is adapted to home cheesemaking as it produces small cheeses that you can eat at different stages and that does not need long ripening
 
-#### The keys of success
+### The keys of success
 
 - use good non-homogenized milk
 - use an active starter culture
-- care for your ripening setting (material, and environment)
+- care for your ripening setting (avoid plastic and putrescible materials)
 - trust your smell and your vision
 
 
