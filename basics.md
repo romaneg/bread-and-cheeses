@@ -12,7 +12,7 @@ People rapidly discovered it was a good way of preserving milk in an eatable for
 Cheese is a product made of one single product: milk. Milk is coagulated to remove a large part of its water content. 
 This coagulation is the result of its own fermentation and the addition of rennet (animal or vegetal enzymes) or other acid (i.e. vinegar).
 Cheese making counts generally three steps:
-1. Coagulation (milk acidification and separation of curd and lactoserum)
+1. [Coagulation]({{site.baseurl}}/2019/05/01/milk-coagulation.html) (milk acidification and separation of curd and lactoserum)
 2. Draining and shaping
 3. Ripening, development
 
@@ -43,3 +43,9 @@ Cheese ripening can actually be seen as bacteria breeding. Cheese making consist
 They can then install and prevent other micro-organisms to develop. 
 That is what a cheesemonger is mastering. 
 He knows how to play with the different parameters to let bacteria develop the flavors and texture he wants.
+
+
+## Articles
+--
+
+{% include posts-list-per-tag.html tag='basics' %}
