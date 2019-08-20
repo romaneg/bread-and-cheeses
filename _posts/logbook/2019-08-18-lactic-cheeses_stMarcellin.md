@@ -26,16 +26,24 @@ It was originally made from a mix of goat and cow milk at the farm and intended 
 I suspect that this type of cheese was made with milk leftovers, considering the making process and the conservation duration (only a few weeks).
 Interestingly, this cheeses were also eaten dried and ripened longer.
 
-I cannot name my cheeses *Saint-Marcellin* but they are the same style.
-I can also use different types of mold sizes and shapes, which will slightly change the taste and ripening profile. Molds for *crottins* (see picture above) or other small molds can be used.
+I cannot name my cheeses *Saint-Marcellin* but they follow approximately the same process.
+I made several trials before coming to this recipe. After a few failures I realized how important was the milk and the ferments.
+Then I adapted the temperature and humidity profiles, as well as the material used for ripening the cheeses.
+When writing this article I checked the requirements of the protected designation of origin for the Saint-Marcellin and I was very surprised
+and happy to discover that my recipe is very close to it![<sup>2</sup>](#2)
 
-It is relatively easy to make, although I made 4 attempts before succeeding!
-It took me time to understand what did not work and that I was not using good enough milk. Cheesemaking is definetely an art!
+I love this recipe for many reasons:
+- it allows me to get raw milk Saint-Marcellin-style cheese that cannot be found in the US
+- it is a versatile recipe, that can be used with goat or cow milk, different types of mold
+- it does not need any external and *terroir*-related micro-organisms (like mucor for Saint-Nectaire or penicillium roqueforti for blue cheese)
+- it is adapted to home cheesemaking as it produces small cheeses that you can eat at different stages and that does not need long ripening
 
-The keys are (as for other cheeses):
-- good non-homogenized milk
-- active starter culture
-- positive ripening setting (material, and environment)
+#### The keys of success
+
+- use good non-homogenized milk
+- use an active starter culture
+- care for your ripening setting (material, and environment)
+- trust your smell and your vision
 
 
 ### Ingredients - 4-5 small cheeses
