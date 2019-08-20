@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Saint-Marcellin-style cheeses 
-subtitle: Lactic cheeses from cow milk
+title: Saint-Marcellin-style homemade cheeses 
+subtitle: Lactic cheeses step-by-step recipe
 image: /assets/img/cheese/2019-08/2019-06-09_crottin_square.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: lactic-cheese
