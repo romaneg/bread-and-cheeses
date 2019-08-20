@@ -6,7 +6,7 @@ image: /assets/img/cheese/2019-08/2019-06-09_crottin_square.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: lactic-cheese
 lang: EN
-tags: [logbook, cheese, st-marcellin, lactic cheese, recipe]
+tags: [logbook, cheese, SaintMarcellin, lactic cheese, recipe]
 ---
 
 ![crottin from cow raw milk]({{site.baseurl}}/assets/img/cheese/2019-08/2019-06-09_crottin-bread-homemade.JPG)
@@ -131,7 +131,7 @@ It is time now to slow down the fermentation and put them into a cheese cave or 
 I usually set my cheese cave (a small wine cooler) to about 14-16°C. If it is less (but should be higher than 10°C), no worries, it will just take longer to ripen.
 
 For ripening, put your cheeses on a small piece of cheese paper, wax paper or any other natural flat material like leaves or bark.
-I personnally love birch bark that I collect in the forest during winter. It is easy to collect, easy to keep and very convenient to use.
+I personally love birch bark that I collect in the forest during winter. It is easy to collect, easy to keep and very convenient to use.
 I just cut squares to the right size with a pair of scissors. It also gives a good taste to the cheese, but not too strong either.
 Then I put the cheeses and their support on wooden boards (maple, spruce, pine are perfect, they should not be planed but let raw).
 
@@ -156,7 +156,7 @@ When the wrinkles start being serious, tranfer the cheese boxes to a cooler envi
 You can start savor them if you like it on the fresh side. Or you can wait longer if you are more on the runny side (as a proper Saint Marcellin)!
 Remove humidity from the boxes regularly and check if they are evolving normally.
 
-You can also let them dry. They will take a stronger *goaty* taste that is delighful.
+You can also let them dry. They will take a stronger *goaty* taste that is delightful.
 
 ![lactic cheeses after 14 days]({{site.baseurl}}/assets/img/cheese/2019-08/2019-07-13_after14days.JPG)
 *Cheeses after 14 days from fabrication.*
