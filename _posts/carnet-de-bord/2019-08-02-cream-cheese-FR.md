@@ -34,7 +34,8 @@ En quelques heures, le mélange est prêt à déguster !
 Pour environ 150-200g de cream cheese:
 - 140g de [crème liquide]({{site.baseurl}}/2019/06/04/creme-fraiche.html)
 - 300g de [lait]({{site.baseurl}}/2019/03/02/lait-cru.html) (cela fonctionne aussi bien avec du lait cru que du lait pasteurisé, c'est juste une question de gout...)
-- 5ml (ou une petite cuillère) de lait fermente ([clabber]({{site.baseurl}}/2019/06/14/faire-son-levain-de-lait.html), kéfir ou lait ribot)
+- 5ml (ou une petite cuillère) de lait fermente ([clabber]({{site.baseurl}}/2019/06/14/faire-son-levain-de-lait.html), 
+[kéfir]({{site.baseurl}}/2019/05/22/culture-de-demarrage.html) ou lait ribot)
 - 1g de sel
 
 ### Matériel

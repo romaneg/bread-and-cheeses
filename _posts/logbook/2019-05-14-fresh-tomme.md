@@ -32,7 +32,7 @@ That's how I decided to make it myself!
 ### Ingredients
 
 - 4L of [milk]({{site.baseurl}}/2019/03/02/raw-milk.html), preferably the freshest raw milk
-- 30ml of kefir, or 30ml of clabber or other cheese culture
+- 30ml of [kefir]({{site.baseurl}}/2019/05/22/starter-cultures.html), or 30ml of [clabber]({{site.baseurl}}/2019/06/14/make-your-own-clabber.html) or other cheese culture
 - 1/4 tablet of Walcoren rennet, crushed and diluted in about 30ml of cold water wihtout chlorine (to decrease the chlorine contained in tap water just shake it and leave it rest for a while)
 
 ### Material

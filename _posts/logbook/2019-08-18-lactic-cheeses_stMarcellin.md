@@ -20,16 +20,17 @@ But in the case of lactic cheeses, the coagulation from lactic fermentation is m
 The lactic fermentation lasts at least 24h before molding the cheeses, meaning that the pH of the curd gets very low (compared to cheeses like camembert or alpine-style).
 <!--excerpt.end-->
 
-A very well-known lactic cheese made from cow milk is *Saint-Marcellin*, which is a protected designation of origin[<sup>2</sup>](#2). 
+A very well-known lactic cheese made from cow milk is *Saint-Marcellin*, which is a protected geographical designation[<sup>2</sup>](#2)(PGD). 
 It is a specialty from the south east of France, close to Lyon and Grenoble.
 It was originally made from a mix of goat and cow milk at the farm and intended for domestic consumption[<sup>1</sup>](#1).
 I suspect that this type of cheese was made with milk leftovers, considering the making process and the conservation duration (only a few weeks).
 Interestingly, this cheeses were also eaten dried and ripened longer.
 
 I cannot name my cheeses *Saint-Marcellin* but they follow approximately the same process.
-I made several trials before coming to this recipe. After a few failures I realized how important was the milk and the ferments.
-Then I adapted the temperature and humidity profiles, as well as the material used for ripening the cheeses.
-When writing this article I checked the requirements of the protected designation of origin for the Saint-Marcellin and I was very surprised
+I made several trials before coming to this recipe. After a [few failures]({{site.baseurl}}/gallery/#failed---ended-up-in-the-bin) I realized how important was the milk and the ferments.
+Then I adapted the temperature and humidity profiles, as well as the quantity of salt and the material used for ripening the cheeses.
+Too much salt will slow down or even stop the ripening while too little will result in too fast fermentation.
+When writing this article I checked the requirements of the PGD for the Saint-Marcellin and I was very surprised
 and happy to discover that my recipe is very close to it[<sup>2</sup>](#2)!
 
 I love this recipe for many reasons:
@@ -62,8 +63,8 @@ I love this recipe for many reasons:
 
 #### For ripening
 - boxes with lid
-- sushi mats or wooden boards or other placti mats
-- surface to leave the cheese on (leaf, brak, ... be creative!), otherwise it may be difficult to move and leak...
+- sushi mats or wooden boards or other plastic mats
+- surface to leave the cheese on (leaf, bark, ... be creative!), otherwise it may be difficult to move and leak...
 
 [More details]({{site.baseurl}}/2019/03/04/starter-kit.html) about material.
 
@@ -83,9 +84,10 @@ Take care of using well-cleaned material (use white vinegar, rinse with clear wa
 
 **0h -> ~+24h, Temperature : ~30°C to room temperature**
 
-Pour the milk in the pot and let it warm up very gently until it reaches ~30°C.
-Add the ferments and the rennet. Stirr well from bottom to top. 
-Let stand at room temperature and forget about it for about 24h (try not to move it, in order not to break the curd).
+1.Pour the milk in the pot and let it warm up very gently until it reaches ~30°C.
+Add the ferments. Stirr well from bottom to top. Wait about 1h.
+
+2.Add the rennet. Stirr well again. Let stand at room temperature and forget about it for about 24h (try not to move it, in order not to break the curd).
 If your room temperature is above 26-28°C, you may have to let it ferment less longer (~14-16h is probably enough).
 
 ![curd for lactic cheese, molding]({{site.baseurl}}/assets/img/cheese/2019-08/lactic-cheese_curd_laddle.jpg)
@@ -97,6 +99,7 @@ The curd should have sunk at the bottom of the pot, covered by whey.
 The whey should be covered by a very fine layer of white yeast (this is Geotrichum Candidum, responsible for many cheese rinds).
 It is time to mold the cheeses. Saint-Marcellin, crottin, pick your favorite shape!
 Prepare 4-5 cheese molds, that you can put on a pastry grid over a platter (to receive the whey).
+
 Then laddle the curd in the molds. Fill the molds, wait for a while and fill them again. 
 You are going to be amazed by how much whey is going to drain. You can press a little bit the top to make it flat but it is not mandatory.
 Cover with a linen or a cheesecloth, to avoid flies to settle in. Let it drain. 
@@ -104,6 +107,7 @@ Cover with a linen or a cheesecloth, to avoid flies to settle in. Let it drain.
 ![curd for lactic cheese, molding]({{site.baseurl}}/assets/img/cheese/2019-08/2019-07-13_laddle.JPG)
 *Curd freshly molded in molds of different sizes. Crottins molds on the left, ceramic Saint-Marcellin on the right.*
 
+Do not throw away the whey! You can make ricotte, use it in pancakes or bread dough or even water your plants (they will regenerate!).
 
 **~+28h -> ~+48h, Temperature : room temperature**
 
@@ -111,7 +115,7 @@ The curd should have drained enough so that you can flip the cheeses in their mo
 Let the cheese slide from the mold to your hand, flip it and put the mold on top and flip the mold.
 Be very careful, the cheeses are still fragile. 
 If you went to bed after moulding, no worries, this step can wait.
-You can flip the cheeses a few times in their molds for the next 24h. This will make the shape more unfirorm and drain water more homogeneously.
+You can flip the cheeses a few times in their molds for the next 24h. This will make the shape more uniform and drain water more homogeneously.
 
 ![lactic cheeses after flipping]({{site.baseurl}}/assets/img/cheese/2019-08/2019-07-13_flipped.JPG)
 *Cheeses just after first flip in the molds.*
@@ -124,7 +128,7 @@ Measure 10g of salt and use it to salt all the cheeses. Take the cheeses in one 
 Do the same on the sides and on the other face. Put the cheese back in the mold (if your kitchen is dry) or directly on a grid or sushi mat.
 Let the cheeses dry for another 12-24h (depending on your room temperature).
 
-![lactic cheeses after molding]({{site.baseurl}}/assets/img/cheese/2019-08/2019-07-13_salted.JPG)
+![lactic cheeses after salting]({{site.baseurl}}/assets/img/cheese/2019-08/2019-07-13_salted.JPG)
 *Cheeses just after salting.*
 
 **+60-72h, Temperature: 14-16°C (cave)**

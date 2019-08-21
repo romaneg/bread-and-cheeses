@@ -32,7 +32,7 @@ Les points clés pour obtenir un fromage bien filant sont les suivants:
 ### Ingrédients
 
 - 4L de [lait]({{site.baseurl}}/2019/03/02/lait-cru.html) (idéalement du lait cru le plus frais possible)
-- 30ml de kéfir, clabber ou autre ferments
+- 30ml de [kéfir]({{site.baseurl}}/2019/05/22/culture-de-demarrage.html), [clabber]({{site.baseurl}}/2019/06/14/faire-son-levain-de-lait.html) ou autre ferments
 - 1/4 comprimé de présure Walcoren, écrasé et dilué dans 30ml d'eau froide non chlorée (pour diminuer le chlore de l'eau du robinet, secouez-la et laissez-la reposer)
 
 ### Matériel
