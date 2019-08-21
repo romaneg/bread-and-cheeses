@@ -67,7 +67,7 @@ le penicillium roqueforti pour les bleus (pas que je sache en tout cas)
 
 - une grande marmite
 - une louche
-- moules à fromage (que vous pouvez [fabriquer]({{site.baseurl}}/2019/03/04/starter-kit.html))
+- moules à fromage (que vous pouvez [fabriquer]({{site.baseurl}}/2019/03/04/kit-minimal.html))
 - une grille et un plat ou un réceptacle pour le petit lait
 
 #### Pour l'affinage
