@@ -58,6 +58,19 @@ Many many videos with step-by-step cheese making recipes, cheese degustations. V
 Wonderful ressource, tips, visual examples. (recipes with pasteurized milk, additives and industrial cultures/molds though...)
 
 
+## Blogs
+---
+
+**[La laiterie de Paris](http://lalaiteriedeparis.blogspot.com/) (the parisian dairy)**
+
+Pierre was farming goats in the west of France. After a trip around the world to discover different cheesemakers, he decided
+to start a urban dairy in Paris.
+I could not taste his cheeses yet, but I can assure you that his instagram accound shows amazing cheeses!
+Yogurts, cream, goat cheeses, haloumi etc. The pictures are amazing.
+His blog (in French, sorry...) gives several homemade cheese recipes as well as reports on cheesemakes and many other
+information about cheese.
+If you go to Paris, come by and taste his production:  **74 Rue des Poissonniers, 75018 Paris, France**.
+
 ## Material
 ---
 
