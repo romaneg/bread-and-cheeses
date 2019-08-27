@@ -59,13 +59,13 @@ Je trouve juste un peu dommage qu'il fasse du fromage de manière *industrielle*
 ## Blogs
 ---
 
-**[La laiterie de Paris](http://lalaiteriedeparis.blogspot.com/)**
+**La laiterie de Paris - [lien](http://lalaiteriedeparis.blogspot.com/)**
 
-Blog de Pierre, fromager qui elevait des chevre en Loire-Atlantique et qui est venu a Paris pour lancer [sa fromagerie urbaine](https://www.kisskissbankbank.com/fr/projects/la-laiterie-de-paris/tabs/description).
-Apres un tour du monde a la rencontre des fromagers, il lance sa fromagerie en plein coeur de Paris. 
-Je n'ai pas encore pu gouter a ses fromages mais je suis sur instagram tout ce qu'il fait. Ca a l'air tout simplement 
-delicieux ! Yaourts, cremes, chevres, haloumi etc. Les photos font saliver.
-Son blog est aussi une source d'info tres precieuse, avec differentes recettes de fromages a faire a la maison, des reportages et pleins
+Blog de Pierre, fromager qui élevait des chevre en Loire-Atlantique et qui est venu à Paris pour lancer [sa fromagerie urbaine](https://www.kisskissbankbank.com/fr/projects/la-laiterie-de-paris/tabs/description).
+Après un tour du monde à la rencontre des fromagers, il lance sa fromagerie en plein coeur de Paris. 
+Je n'ai pas encore pu go0ter à ses fromages mais je suis ses aventures sur instagram. Ses productions ont l'air tout simplement 
+délicieuses ! Yaourts, crèmes, chèvres, haloumi etc. Les photos font saliver.
+Son blog est aussi une source d'info tres précieuse, avec différentes recettes de fromages à faire à la maison, des reportages et pleins
 d'explications sur les fromages. Une vraie mine d'or !
 Si vous passez par Paris, faites-y un tour: **74 Rue des Poissonniers, 75018 Paris, France**.
 
