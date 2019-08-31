@@ -6,7 +6,7 @@ image: /assets/img/cheese/2019-08/2019-06-09_crottin_square.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: lactic-cheese
 lang: FR
-tags: [carnet de bord, SaintMarcellin, fromage, recette, fromage lactique]
+tags: [carnet-de-bord, SaintMarcellin, fromage, recette, fromage lactique]
 ---
 
 ![crottin au lait de vache]({{site.baseurl}}/assets/img/cheese/2019-08/2019-06-09_crottin-bread-homemade.JPG)

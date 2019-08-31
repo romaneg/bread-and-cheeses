@@ -6,7 +6,7 @@ image: /assets/img/cheese/2019-08/homemade-cream-cheese-square.JPG
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: cream-cheese
 lang: FR
-tags: [carnet de bord, cream cheese, fromage, recette]
+tags: [carnet-de-bord, cream cheese, fromage, recette]
 ---
 
 ![cream cheese fait maison]({{site.baseurl}}/assets/img/cheese/2019-08/homemade-cream-cheese.JPG)
