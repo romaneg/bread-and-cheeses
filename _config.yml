@@ -20,7 +20,9 @@ navbar-links:
             - Introduction: "basics"
             - Material: "material"
             - Ingredients: "ingredients"
-        Resources: "resources"
+        Resources:
+            - Reading: "reading"
+            - Links: "links"
         About: "aboutme"
     FR:
         Carnet de bord:
@@ -30,7 +32,9 @@ navbar-links:
             - Introduction: "fr/bases"
             - Matériel: "fr/materiel"
             - Ingrédients: "fr/ingredients"
-        Ressources: "fr/ressources"
+        Ressources:
+            - Lecture: "fr/lecture"
+            - Liens: "fr/liens"
         "À Propos": "fr/a-propos"
         
 
