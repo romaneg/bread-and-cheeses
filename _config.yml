@@ -1,7 +1,7 @@
 # --- General options --- #
 
 url: "https://romaneg.github.io/cheese-in-the-city"
-baseurl: "/cheese-in-the-city"
+baseurl: "" #"/cheese-in-the-city"
 lang: en_US, fr_FR
 title: Cheese in the city
 
