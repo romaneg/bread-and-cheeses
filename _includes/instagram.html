@@ -10,10 +10,10 @@
 <script type="text/javascript">
 //jhvanderschee
     var feed = new Instafeed({
-        get: 'tagged', //user
+        get: 'user', //user
         userId: '{{ include.userId }}',
         limit: '20',
-        tagName: 'homemadecheese',
+        // tagName: 'homemadecheese',
         sortBy: 'most-recent',
         resolution: 'standard_resolution',
         accessToken: '{{ include.accessToken }}',
