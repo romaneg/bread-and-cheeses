@@ -24,7 +24,8 @@ To understand what is a starter culture, you can read this [very detailed articl
 To make your clabber you can either get some from a friend or make your own if you have access to raw milk.
 It is worth mentionning that you can only make clabber from raw milk.
 
-Get some raw milk and leave it at room temperature about 2 days (after milking).
+Get some raw milk and leave it at room temperature about 2 days (after milking) in a glass jar (having a transparent
+container will help you detect any issue).
 The clabber is ready when the milk has coagulated (see picture above). The milk forms a sort of jelly. It tastes a bit like yogourt, a little acidic.
 
 If it does not succeed, maybe the milk you used was kept too long at cold temperature or the milk has some problem.
@@ -42,3 +43,22 @@ If you need to go on vacation, you can freeze your clabber as ice cubes. To revi
 It will take a few days so that your clabber reaches its former activity.
 
 
+### How to make sure your clabber is good?
+
+![problem zith raw milk]({{site.baseurl}}/assets/img/cheese/2019-10/raw-milk-problem.jpg)
+*Example of problem with milk. Clabber after 2 days left at room temperature. 
+We can see some bubbles in the cream on top and the milk has curded and separated from the whey very fast, which is a bad sign.*
+
+
+Here are signs of a good and healthy clabber:
+- it has a slight acid odor, which remains pleasant
+- slightly acidic taster, a bit like a yogourt
+- the consistency is homogenous, eventually some cream may be on top
+
+
+Some bad signs should alert you:
+- gas emission (small bubbles)
+- bad smell
+- the milk separate in two phases
+
+In those cases do not take any risk and start from scratch. It is very likely that the milk you used had a problem or is too old.

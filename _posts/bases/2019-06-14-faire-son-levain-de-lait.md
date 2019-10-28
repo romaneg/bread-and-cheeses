@@ -51,3 +51,23 @@ Si vous devez vous absenter, vous pouvez faire des glaçons de votre culture.
 Lorsque vous voulez la réactiver, prenez un glaçon, ajouter du lait (toujours dans les proportions 1:50 environ). Nourrissez à nouveau votre culture tous les jours.
 Il vaut mieux attendre quelques jours avant de réutiliser votre culture pour faire vos fromages. Votre culture sera ainsi plus active.
 
+
+
+### Comment vérifier que votre lait fermenté est réussi?
+
+![détecter un probème de lait]({{site.baseurl}}/assets/img/cheese/2019-10/raw-milk-problem.jpg)
+*^Example de problème avec le lait. Après deux jours, on voit apparapitre des émissions de gaz et le lait a caillé rapidement
+et s'est séparé du petit lait:*
+
+
+Voici des signes d'un levain de lait de bonne qualité:
+- une odeur légèrement qui reste agréable
+- un goût un peu acidulé, comme un yaourt
+- une consistence gélifiée, homogène (éventulemment la crème est remontée en surface)
+
+
+Des signes qui doivent vous alerter d'un problème:
+- émission de gaz (petites bulles dans le caillé et ou à la surface)
+- une odeur désagréable
+- le lait s'est séparé en deux phases
+Si vous avez un doute ne prenez pas de risque et recommencez. Il est fort probable que le lait utilisé était trop vieux ou a eu un problème.
