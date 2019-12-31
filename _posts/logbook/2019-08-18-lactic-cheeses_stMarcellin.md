@@ -133,7 +133,7 @@ Let the cheeses dry for another 12-24h (depending on your room temperature).
 
 **+60-72h, Temperature: 14-16°C (cave)**
 
-The cheeses should start developing a very thin yeasty et sticky layer on top (it can be hard to see for a non-exercised eye, try different angles of light). 
+The cheeses should start developing a very thin yeasty and sticky layer on top (it can be hard to see for a non-exercised eye, try different angles of light). 
 That's very good sign! They start ripening!
 
 ![lactic cheeses ready to go to the cave]({{site.baseurl}}/assets/img/cheese/2019-08/2019-07-13_salt.JPG)

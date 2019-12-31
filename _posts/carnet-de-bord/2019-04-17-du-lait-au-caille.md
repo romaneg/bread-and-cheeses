@@ -58,16 +58,25 @@ Ajouter la culture d'amorçage, ici le kéfir (mais cela pourrait très bien êt
 
 **Temps : 01:30, Température : 32°C** 
 
-Le lait a commencé à fermenter. Vous pouvez maintenant ajouter la présure diluée dans un peu d'eau froide (non chlorée). Mélanger doucement et longuement (minimum 2 minutes), et de façon à bien homogénéiser. Laissez reposer toujours à 32°C. Evitez de bouger le contenant pendant cette étape, il faut que le lait prenne bien en masse.
+Le lait a commencé à fermenter. Vous pouvez maintenant ajouter la présure diluée dans un peu d'eau froide (non chlorée). 
+Mélanger doucement et longuement (minimum 2 minutes), et de façon à bien homogénéiser. Laissez reposer toujours à 32°C. 
+Evitez de bouger le contenant pendant cette étape, il faut que le lait prenne bien en masse.
 
-La présure va permettre de faire caillér le lait rapidement (plus vite que si le lait fermentait naturellement). Suivant la qualité de votre lait, sa fraicheur et la quantité de présure, le lait va coaguler plus ou moins vite. Essayez d'utiliser toujours le même lait pour améliorer les chances de reproductibilité et connaitre le dosage de présure optimal. J'utilise 1/4 de comprime de Walcoren pour 2L de lait. C'est plus que les quantités indiquées par le fabricant, mais le lait que j'utilise n'étant pas d'une grande qualité j'ai vu qu'en augmentant les doses le caillé était plus ferme.
+La présure va permettre de faire cailler le lait rapidement (plus vite que si le lait fermentait naturellement). 
+Suivant la qualité de votre lait, sa fraicheur et la quantité de présure, le lait va coaguler plus ou moins vite. 
+Essayez d'utiliser toujours le même lait pour améliorer les chances de reproductibilité et connaitre le dosage de présure optimal. 
+J'utilise 1/4 de comprime de Walcoren pour 4L de lait. C'est plus que les quantités indiquées par le fabricant, 
+mais le lait que j'utilise n'étant pas d'une grande qualité j'ai vu qu'en augmentant les doses le caillé était plus ferme.
 
 ![cheese curd]({{site.baseurl}}/assets/img/cheese/2019-04/cheese-cut.jpg)
 *Le lait est mis lentement a réchauffer (en haut à gauche), la présure est ajoutée et lait commence à coaguler (en haut à droite), le caillé est découpé (en bas à gauche), le caillé est remué régulièrement et laissé à reposer pour extraire le petit lait (en bas à droite).*
 
 **Temps : 02:00 - 03:00, Température: 32°C**
 
-Le lait doit maintenant avoir commencé à coaguler, si vous bougez un peu la casserole il doit trembloter légèrement comme une panna cotta. Vérifiez que le caillé a bien pris avec le *test de la boutonnière*. Pour ce faire, plongez un doigt dans le caillé à 45 degrés et relevez le pour essayer de casser la surface. Si la surface fait une coupe franche et que du petit lait apparait c'est prêt ! Sinon attendez encore 10-15min et refaites le test.
+Le lait doit maintenant avoir commencé à coaguler, si vous bougez un peu la casserole il doit trembloter légèrement comme 
+une panna cotta. Vérifiez que le caillé a bien pris avec le *test de la boutonnière*. 
+Pour ce faire, plongez un doigt dans le caillé à 45 degrés et relevez le pour essayer de casser la surface. 
+Si la surface fait une coupe franche et que du petit lait apparait c'est prêt ! Sinon attendez encore 10-15min et refaites le test.
 
 **Temps : 2:10 - 3:10, Température : 32°C**
 

@@ -78,11 +78,16 @@ Leave it ferment for about 1h. Keep the temperature to 32°C. You can put a lid 
 
 The milk has started to ferment. You can now add the rennet. Pour gently and for at least 2 minutes so that it is well homogenized. Try not moving the pan after that step, so that the milk coagulates well.
 
-The rennet will allow the milk to coagulate rapidly (more rapidly than how the milk would naturally). Given the milk quantity, its freshness and the amount of rennet, the milk is going to coagulate more or less rapidly. Try to always use the same milk to increase the chance of reproductibility and to know the best dosage of rennet. With pasteurized milk I generally use 1/4 tablet of Walcoren for 2L of milk . It is more than the recommendations of the manufacturer but I noticed that the curd was firmer with this quantity.
+The rennet will allow the milk to coagulate rapidly (more rapidly than how the milk would naturally). 
+Given the milk quantity, its freshness and the amount of rennet, the milk is going to coagulate more or less rapidly. 
+Try to always use the same milk to increase the chance of reproductibility and to know the best dosage of rennet. 
+With pasteurized milk I generally use 1/4 tablet of Walcoren for 2L of milk . It is more than the recommendations of 
+the manufacturer but I noticed that the curd was firmer with this quantity.
 
 **Time : ~02:00, Temperature: 32°C**
 
-The milk has now started to coagulate. If you move a little the pan you should see it shaking slightly like a *panna cotta*. Check that the curd is ready with the following test: put your finger in the curd with an angle of 45 degrees and go up to cut the curd. If the cut is clear then the curd is ready. Otherwise wait for another 10-15 minutes and do the test again.
+The milk has now started to coagulate. If you move a little the pan you should see it shaking slightly like a *panna cotta*. 
+Check that the curd is ready with the following test: put your finger in the curd with an angle of 45 degrees and go up to cut the curd. If the cut is clear then the curd is ready. Otherwise wait for another 10-15 minutes and do the test again.
 
 **Time : ~02:30, Temperature : 32°C**
 
