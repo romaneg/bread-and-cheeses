@@ -123,7 +123,7 @@ Si vous êtes allez vous coucher après le moulage, pas de problème, les fromag
 Retournez les régulièrement dans les 24h suivantes, cela rendra le séchage et la forme plus uniformes.
 
 
-![égouttage du caillé]({{site.baseurl}}/assets/img/cheese/2019-12/curd-draining.JPG)
+![égouttage du caillé]({{site.baseurl}}/assets/img/cheese/2019-12/curd-draining.jpg)
 *Haut à gauche : après moulage du caillé. Haut à droite : ~30min plus tard.
 Bas à gauche : environ 9h plus tard. Bas à droite : fromages retournés dans les moules.*
 

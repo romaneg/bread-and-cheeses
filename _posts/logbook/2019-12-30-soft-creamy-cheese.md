@@ -120,7 +120,7 @@ Let the cheese slide from the mold to your hand, flip it and put the mold on top
 You can flip the cheeses a few times in their molds for the next 24h. 
 This will make the shape more uniform and drain water more homogeneously.
 
-![curd draining]({{site.baseurl}}/assets/img/cheese/2019-12/curd-draining.JPG)
+![curd draining]({{site.baseurl}}/assets/img/cheese/2019-12/curd-draining.jpg)
 *Top left: after ladling the curd. Top right: ~30min after. Bottom left: about 9hrs after.
 Bottom right: cheeses flipped in molds.*
 
