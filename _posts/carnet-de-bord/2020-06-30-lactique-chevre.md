@@ -39,9 +39,9 @@ Et si vous attendez encore, de nombreuses possibilités d'affinage s'offrent à 
 
 Après salage, il y a différents paramètres qui vont influencer l'affinage:
 - **le temps**: plus vous attendez et plus le fromage va viellir, son goût va s'affirmer. Il va perdre son caractère lactique et doux.
-- **la température**: plus la température est élevée, plus le fromage viellit vite (mais différemment). La température optimale se trouve entre 12°C and 16°C.
+- **la température**: plus la température est élevée, plus le fromage vieillit vite (mais différemment). La température optimale se trouve entre 12°C and 16°C.
 Si votre cuisine est autour de 20°C et plus, je vous conseille plutôt de poursuivre l'affinage au frigo. La partie supérieure de votre frigo devrait se trouver autour de 10°C. C'est un peu bas, mais ce n'est pas grave, l'affinage sera juste plus lent.
-- **l'humidité**: plus l'humidité est haute, plus le fromage viellit vite aussi. Il vieillit plus mou aussi.
+- **l'humidité**: plus l'humidité est haute, plus le fromage vieillit vite aussi. Il vieillit plus mou aussi.
 Une humidité de 90% est généralement idéale pour obtenir un fromage moelleux. Le fromage devient aussi coulant sous la croûte et l'intérieur reste crémeux.
 En revanche si vous affinez votre fromage dans un endroit plus sec, la croûte va faire des rides plus ressérées et la texture sera plus sèche.
 Il est aussi possible de combiner des étapes humides puis de séchage, pour jouer sur les textures.
@@ -55,8 +55,8 @@ Il est aussi possible de combiner des étapes humides puis de séchage, pour jou
 
 Sur la photo ci-dessus, vous pouvez observer deux fromages moulés au même moment mais affinés différemment.
 Ces fromages ont tous deux été affinés deux semaines et à température ambiante (~20°C). 
-Celui de droite a été viellit sur une grille et sous une boîte afin d'augmenter le degré d'humidité (voir photo ci-dessous).
-Le fromage de droite a été viellit sans boîte.
+Celui de droite a été vieilli sur une grille et sous une boîte afin d'augmenter le degré d'humidité (voir photo ci-dessous).
+Le fromage de droite a été vieilli sans boîte.
 
 Vous pouvez observer que le fromage affiné dans des conditions plus sèches a développé des "rides" plus ressérées.
 C'est une information à retenir pour reconnaître les conditions d'affinage d'un fromage du commerce.
