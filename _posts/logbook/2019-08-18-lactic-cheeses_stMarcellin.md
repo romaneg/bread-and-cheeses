@@ -50,7 +50,7 @@ I love this recipe for many reasons:
 ### Ingredients - 4-5 small cheeses
 
 - 4L of [milk]({{site.baseurl}}/2019/03/02/raw-milk.html), preferably the freshest raw milk (non-homogenized at least)
-- 30ml of [kefir]({{site.baseurl}}/2019/05/22/starter-cultures.html), or 30ml of [clabber]({{site.baseurl}}/2019/06/14/make-your-own-clabber.html) or other cheese culture
+- 30ml of [kefir]({{site.baseurl}}/2019/05/22/starter-cultures.html), or 30ml of [clabber]({{site.baseurl}}/2019/06/14/make-your-own-clabber.html), or whey from a previous batch of cheese, or other cheese culture
 - 1/2 tablet of Walcoren rennet, crushed and diluted in about 30ml of cold water wihtout chlorine (to decrease the chlorine contained in tap water just shake it and leave it rest for a while)
 - 10g of fine-grained salt (preferably sea salt, and without any additive)
 
