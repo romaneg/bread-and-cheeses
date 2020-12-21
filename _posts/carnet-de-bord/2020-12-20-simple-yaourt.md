@@ -23,7 +23,7 @@ En résumé je vois plusieurs freins à la fabrication de yaourts :
 3. il faut tout un tas de contenants individuels, il faut les laver et les stocker 
 
 Dans cet article je vous propose une solution à ces trois problèmes:
-1. pas besoin de yaourtière, une yaourtière est just une grosse boite en plastique avec une résistance pour maintenir une température autour de 40°C. Il suffit de trouver un moyen de garder ses yaourts au chaud pendant quelques heures. Pour cela j'utilise mon chauffe-liquide à cuisson sous vide. Quoi ? Encore un gadget ? Pas de panique, on peut aussi faire sans, je vous explique plus bas. Je ne l'ai pas acheté exprès pour faire des yaourts mais j'ai trouvé qu'il pouvait aussi avoir cet usage.
+1. pas besoin de yaourtière, une yaourtière est just une grosse boite en plastique avec une résistance pour maintenir une température autour de 40°C. Il suffit de trouver un moyen de garder ses yaourts au chaud pendant quelques heures. Pour cela j'utilise mon chauffe-liquide à cuisson sous vide. Quoi ? Encore un gadget ? Pas de panique, on peut aussi faire sans, je vous explique plus bas. Je ne l'ai pas acheté exprès pour faire des yaourts mais j'ai trouvé qu'il pouvait aussi avoir cet usage. A noter cela dit que le chauffe-liquide présente l'avantage d'avoir de multiples usages (cuisson sous-vide par exemple) et permet de faire une grande quantité de yaourt comparé à une yaourtière (limitée souvent à 6 ots individuels)!
 2. je vous propose de ne pas chauffer le lait. Cela permet de gagner beaucoup de temps et de laver moins de vaisselle.
 3. pas besoin de contenants individuels ! J'utilise des gros bocaux en verre dans lequels il y aura plusieurs portions de yaourt. Ensuite on s'en sert dans des bols, comme avec les bocaux de fromage blanc ! Cela prend moins de place et il est plus facile de garder le pot à chaleur constance lors de la préparation (il y a plus d'inertie).
 
@@ -131,7 +131,7 @@ C'est du petit lait et c'est très bon. C'est plein de protéines! Cela peut vou
 
 #### Le yaourt est plein de bulles.
 
-Alors là c'est un problème. D'autres bactéries ont contaminé le lait. Le lait était peut-être aussi trop vieux (voir exemple ci-dessous). Jetez ce yaourt et recommncez.
+Alors là c'est un problème. D'autres bactéries ont contaminé le lait. Le lait était peut-être aussi trop vieux (voir exemple ci-dessous). Jetez ce yaourt et recommencez.
 
 
 ![yaourt raté]({{site.baseurl}}/assets/img/cheese/2020-12/yaourt-rate.JPG)
