@@ -142,7 +142,7 @@ Other bacteria have probably contaminated the milk. The milk also may have been 
 Throw away that yogurt and start again!
 
 
-![failed yogurt]({{site.baseurl}}/assets/img/cheese/2020-12/yaourt-rate.jpg)
+![failed yogurt]({{site.baseurl}}/assets/img/cheese/2020-12/yaourt-rate.JPG)
 *On the left and middle is a failed yogurt with bubbles. The milk was too old. The same fermet used with another fresher milk gave a successful yogurt (on the right).*
 
 #### How can I get a less acid yogurt?

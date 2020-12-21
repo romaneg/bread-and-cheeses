@@ -134,7 +134,7 @@ C'est du petit lait et c'est très bon. C'est plein de protéines! Cela peut vou
 Alors là c'est un problème. D'autres bactéries ont contaminé le lait. Le lait était peut-être aussi trop vieux (voir exemple ci-dessous). Jetez ce yaourt et recommncez.
 
 
-![yaourt raté]({{site.baseurl}}/assets/img/cheese/2020-12/yaourt-rate.jpg)
+![yaourt raté]({{site.baseurl}}/assets/img/cheese/2020-12/yaourt-rate.JPG)
 *A gauche et au milieu, un exemple de yaourt raté. Le lait était trop vieux. Le même ferment utilisé avec un lait plus frais a donné un yaourt réussi (à droite).*
 
 #### Comment faire varier l'acidité ? 
