@@ -32,7 +32,7 @@ Les points clés pour obtenir un fromage bien filant sont les suivants:
 ### Ingrédients
 
 - 4L de [lait]({{site.baseurl}}/2019/03/02/lait-cru.html) (idéalement du lait cru le plus frais possible)
-- 30ml de [kéfir]({{site.baseurl}}/2019/05/22/culture-de-demarrage.html), [clabber]({{site.baseurl}}/2019/06/14/faire-son-levain-de-lait.html) ou autre ferments
+- 30mL de [kéfir]({{site.baseurl}}/2019/05/22/culture-de-demarrage.html), [clabber]({{site.baseurl}}/2019/06/14/faire-son-levain-de-lait.html) ou autre ferments
 - 1/4 comprimé de présure Walcoren, écrasé et dilué dans 30ml d'eau froide non chlorée (pour diminuer le chlore de l'eau du robinet, secouez-la et laissez-la reposer)
 
 ### Matériel
@@ -84,7 +84,7 @@ Vérifiez que le caillé a bien pris avec le *test de la boutonnière*.
 Pour ce faire, plongez un doigt dans le caillé à 45 degrés et relevez le pour essayer de casser la surface. 
 Si la surface fait une coupe franche et que du petit lait apparait c'est prêt ! 
 Sinon attendez encore 10-15min et refaites le test. 
-Si votre lait n'a pas caillé au bout de 2h votre lait est surement de mauvaise qualité ou votre présure est périmée.
+Si votre lait n'a pas caillé au bout de 2h votre lait est sûrement de mauvaise qualité ou votre présure est périmée.
 
 **Temps : 2:00 +/- 1h, Température : 32°C**
 

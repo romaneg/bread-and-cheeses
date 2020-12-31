@@ -58,9 +58,9 @@ le penicillium roqueforti pour les bleus (pas que je sache en tout cas)
 
 ### Ingrédients - 4-5 petits fromages
 
-- 4L de [lait]({{site.baseurl}}/2019/03/02/lait-cru.html) (idéalement du lait cru le plus frais possible)
-- 30ml de [kéfir]({{site.baseurl}}/2019/05/22/culture-de-demarrage.html), [clabber]({{site.baseurl}}/2019/06/14/faire-son-levain-de-lait.html), ou petit lait d'une precedente fournée de fromage (ou extrait de fromage blanc ou de faisselle), ou autre ferments
-- 1/4 comprimé de présure Walcoren, écrasé et dilué dans 30ml d'eau froide non chlorée (pour diminuer le chlore de l'eau du robinet, secouez-la et laissez-la reposer)
+- 4 L de [lait]({{site.baseurl}}/2019/03/02/lait-cru.html) (idéalement du lait cru le plus frais possible)
+- 30 mL de [kéfir]({{site.baseurl}}/2019/05/22/culture-de-demarrage.html), [clabber]({{site.baseurl}}/2019/06/14/faire-son-levain-de-lait.html), ou petit lait d'une precedente fournée de fromage (ou extrait de fromage blanc ou de faisselle), ou autre ferments
+- 1/4 comprimé de présure Walcoren, écrasé et dilué dans 30 mL d'eau froide non chlorée (pour diminuer le chlore de l'eau du robinet, secouez-la et laissez-la reposer)
 - 10g de sel fin ou moulu (sans additif, le sel marin est pas mal)
 
 ### Matériel
@@ -72,7 +72,7 @@ le penicillium roqueforti pour les bleus (pas que je sache en tout cas)
 
 #### Pour l'affinage
 - boites avec couvercles
-- nattes de bois ou bambou, planchettes en bois etc.
+- nattes de bois ou bambou, planchettes en bois brut (et non traîté !) etc.
 - surface de support (feuilles d'arbre séchées, écorce...), sans quoi les fromages seront difficiles à déplacer car coulants...
 
 [Plus de détails]({{site.baseurl}}/2019/03/04/kit-minimal.html) sur le matériel.
@@ -82,7 +82,7 @@ le penicillium roqueforti pour les bleus (pas que je sache en tout cas)
 - ~24h pour la fermentation et coagulation
 - ~24h pour l'égouttage
 - ~24h pour salage et égouttage
-- 2-6 semaines pour l'affinage (selon vos gouts et les conditions de température)
+- 2-6 semaines pour l'affinage (selon vos goûts et les conditions de température)
 
 ### Procédé
 

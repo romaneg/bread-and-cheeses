@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The simplest homemade yogurt recipe
-subtitle: A simple recipe, without yogurt maker, without milk powder
+title: A simple homemade yogurt recipe
+subtitle: No yogurt maker, no milk powder
 image: /assets/img/cheese/2020-12/yaourt-epais_square.jpg
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: simple-yaourt
@@ -50,7 +50,7 @@ To start your first yogurt just buy a good yogurt, from a farm or at least made 
 
 ### Ingredients
 
-- 1L of pasteurized or raw milk (if it is raw, do a [gentle pasteurization]({{site.baseurl}}/2019/03/02/coagulation-du-lait) and let it cool down to ~40°C)
+- 1L of pasteurized or raw milk (if it is raw, do a [gentle pasteurization]({{site.baseurl}}/2019/03/02/raw-milk.html) and let it cool down to ~40°C)
 - ~1 tbsp of the previous batch of yogurt
 
 ### Material
@@ -80,7 +80,7 @@ Take care of using well-cleaned material (use white vinegar, rinse with clear wa
 
 ### Ingredients
 
-- 1L of pasteurized or raw milk (if it is raw, do a [gentle pasteurization]({{site.baseurl}}/2019/03/02/coagulation-du-lait) and let it cool down to ~40°C)
+- 1L of pasteurized or raw milk (if it is raw, do a [gentle pasteurization]({{site.baseurl}}/2019/03/02/raw-milk.html) and let it cool down to ~40°C)
 - ~1 tbsp of the previous batch of yogurt
 
 ### Material
@@ -149,6 +149,19 @@ Throw away that yogurt and start again!
 
 The more you leave the bacteria at their comfort temperature, the more they proliferate and the more they will acidify the yofurt. If you like yogurt that is less acidic, you can vary the waiting time. Start from 5h, taste and see!
 
+#### How long can I keep it?
+
+Thanks to fermentation, yogurt can be kept much longer than milk. The lactic bacteria acidify the milk which prevents other bacteria to install and or proliferate.
+This is even amplified by refrigeration. In theory, a yogurt can be stored for about a month. In practice that can even be longer.
+If your yogurt has the same lactic taste, no weird smell and the texture is the same as before, it's good to eat.
+
+#### What if I want to take a break in yogurt making?
+
+As explained earlier you can keep yogurt for quite a long time. However there are other ways to presever your ferments.
+You can either freeze them as ice cubes. Then you can use these ice cubes directly as starters. You can keep them for about a month in your freezer. After that time the bacteria may become damaged and less active.
+
+Apparently it is also possible to dry some yogurt. You spread it and let it dry in a warm place (no more than 40°C). Then you can keep the resulting powder in the fridge.
+I never tried but that looks super interesting and a convenient way to preserve it.
 
 ### References
 

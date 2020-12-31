@@ -20,8 +20,8 @@ navbar-links:
             - Introduction: "basics"
             - Material: "material"
             - Ingredients: "ingredients"
-        Science:
-            - Micro-biology: "microbiology"
+        # Science:
+        #     - Micro-biology: "microbiology"
         Resources:
             - Reading: "reading"
             - Links: "links"
@@ -34,8 +34,8 @@ navbar-links:
             - Introduction: "fr/bases"
             - Matériel: "fr/materiel"
             - Ingrédients: "fr/ingredients"
-        Science:
-            - Micro-biologie: "fr/micro-biologie"
+        # Science:
+        #     - Micro-biologie: "fr/micro-biologie"
         Ressources:
             - Lecture: "fr/lecture"
             - Liens: "fr/liens"

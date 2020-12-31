@@ -50,7 +50,7 @@ Alors pour démarrer votre premier yaourt je vous conseille tout simplement d'ac
 
 ### Ingrédients
 
-- 1L de lait entier pasteurisé ou cru (s'il est cru, je vous conseille de le [pasteuriser de manière douce]({{site.baseurl}}/2019/03/02/coagulation-du-lait) et de le laisser refroidir à 40°C)
+- 1L de lait entier pasteurisé ou cru (s'il est cru, je vous conseille de le [pasteuriser de manière douce]({{site.baseurl}}/2019/03/02/lait-cru.html) et de le laisser refroidir à 40°C)
 - ~1 c.c. du yaourt de la fournée précédente
 
 ### Matériel
@@ -79,7 +79,7 @@ Assurez-vous que votre matériel est bien propre (lavé au vinaigre blanc, rinc�
 
 ### Ingrédients
 
-- 1L de lait entier pasteurisé (s'il est cru, je vous conseille de le [pasteuriser de manière douce]({{site.baseurl}}/2019/03/02/coagulation-du-lait) et de le laisser refroidir à 40°C)
+- 1L de lait entier pasteurisé (s'il est cru, je vous conseille de le [pasteuriser de manière douce]({{site.baseurl}}/2019/03/02/lait-cru.html) et de le laisser refroidir à 40°C)
 - ~1 c.c. du yaourt de la fournée précédente
 
 ### Matériel
@@ -111,7 +111,7 @@ Lq première fois vous pouvez vérifier la température de temps en temps pour v
 #### Pourquoi la plupart des recettes conseillent de chauffer le lait ?
 
 Chauffer le lait permet de dégrader les protéines.  Les protéines sont comme de long fils de molécules formés en pelotes. La chaleur délie ces pelotes. Les protéines peuvent alors se lier entre elles et former des réseaux, un peu comme un tricotage. Ce réseau rend alors le liquide moins liquide et donne cette aspect gélifié.
-Comme expliqué plus haut, la dégradation des protéines survient aussi grâce à l'acidification due aux bactéries. Chauffer n'est donc pas indispensable pour que le yaourt devienne épais; même s'il y contribue.
+Comme expliqué plus haut, la dégradation des protéines survient aussi grâce à l'acidification due aux bactéries. Chauffer n'est donc pas indispensable pour que le yaourt devienne épais ; même s'il y contribue.
 
 #### Pourquoi certaines recettes mentionnent d'ajouter du lait en poudre ou des gélifiants ?
 
@@ -140,6 +140,20 @@ Alors là c'est un problème. D'autres bactéries ont contaminé le lait. Le lai
 #### Comment faire varier l'acidité ? 
 
 Vous l'aurez compris, plus les bactéries agissent et plus elles acidifient le yaourt. Autrement dit, plus vous les laissez agir à leur température de confort, plus elles se multiplient et plus elles rendent le yaourt acide. Si vous aimez les yaourts moins acides jouez alors sur la durée de coagulation, entre 5h et 12h.
+
+#### Combien de temps puis-je le conserver ?
+
+Grâce à la fermentation, le yaourt se conserve beaucoup plus longtemps que du lait. L'acidité générée par les bacteries lactiques empeche d'autres bacteries ou micro-organismes de proliferer.
+Ce phenomene est encore ralentit par la réfrigération. En théorie un yaourt peut se conserver environ un mois. En pratique, cela peut même être plus long. Tant que le yaourt n'a pas une odeur désagréable, que sa texture n'a pas changé et qu'il est bon au goût, aucun souci.
+
+#### Que faire si je pars en vacances ?
+
+Comme expliqué précédemment, le yaourt se conserve longtemps. Cela dit, si vous voulez faire une pause et conserver votre yaourt pour de futures fabrications vous pouvez toujours en congeler un peu.
+Vous pouvez faire quelques glacons de yaourt que vous pourrez converver environ un mois au congélateur. Vous pouvez tenter de pousser plus longtemps mais il est possible que vos bactéries soient endommagées par le froid.
+Utilisez ensuite un glaçon directement comme ferment pour démarrer votre yaourt.
+
+Il est aussi possible de faire sécher du yaourt en l'étalant sur plaque et en le laissant quelques heures au chaud. Attention de ne pas dépasser ~40°C. Cela produit une poudre que vous pouvez conserver au frais.
+Je n'ai jamais essayé mais cela semble intéressant car cette poudre peut se conserver très longtemps.
 
 
 ### Références
