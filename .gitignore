@@ -1,0 +1,14 @@
+.idea/
+.jekyll-metadata
+_site/
+*.svg
+*.png
+*.pptx
+figures/*
+assets/img/cheese/gallery/*
+assets/img/cheese/temp/*
+assets/img/cheese/2020-12/temp/*
+assets/img/cheese/2019-10/temp/*
+assets/img/cheese/2019-12/temp/*
+assets/img/cheese/2020-12/tommes/*
+assets/img/logo_bread-cheese_big.png
