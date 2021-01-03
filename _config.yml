@@ -3,10 +3,10 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
-url: "https://romaneg.github.io/cheese-in-the-city"
+url: "https://www.cheese-in-the-city.com"
 baseurl: "" #"/cheese-in-the-city"
 lang: en_US, fr_FR
-title: Cheese in the city
+title: Cheese in the city, making cheese at home
 
 # Short description of your site
 description: a blog about cheesemaking at home with natural ferments, un blog sur la fabrication de fromage maison � partir de ferments naturels
