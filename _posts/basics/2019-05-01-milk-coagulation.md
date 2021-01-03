@@ -3,6 +3,7 @@ layout: post
 title: How does milk transform into cheese?
 subtitle: Understanding milk coagulation
 image: /assets/img/cheese/2019-05/casein-micelle-microscope_square.jpg
+image-title: casein micel
 permalink: /:categories/:year/:month/:day/:title:output_ext
 tags: [basics, cheese, milk, curd, coagulation, chemistry]
 ref: milk-coagulation

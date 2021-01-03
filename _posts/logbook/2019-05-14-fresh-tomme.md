@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Tomme fraîche
+title: Tome fraîche
 subtitle: Fresh pressed curd to prepare aligot
 image: /assets/img/cheese/2019-04/fresh-tomme_cut_square.JPG
+image-title: 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: fresh-tomme
 lang: EN
-tags: [logbook, cheese, tomme, recipe, aligot, cantal]
+tags: [logbook, cheese, tomme, tome, recipe, aligot, cantal]
 ---
 
-![tomme fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme.JPG)
+![tome fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme.JPG)
 
 <!--excerpt.start-->
 When people ask me what I am missing from France in terms of food I am generally embarassed. 
@@ -18,13 +19,13 @@ Moreover if I cannot find a product I like I generally bake it myself. I love ba
 
 One day I really liked eating *aligot*. 
 Aligot is a dish from the center of France (Aubrac region). 
-Mashed potato is cooked with tomme fraiche (a lot of tomme fraiche! ... and crème fraiche and butter). It looks a bit like fondue. 
+Mashed potato is cooked with tome fraiche (a lot of tome fraiche! ... and crème fraiche and butter). It looks a bit like fondue. 
 It is simply delicious!
-Tomme fraiche means *fresh* (or young) *tomme*. It comes from the early stages of cheeses that come from the center of France like Cantal, Salers or Laguiole.
+Tome fraiche means *fresh* (or young) *tome*. It comes from the early stages of cheeses that come from the center of France like Cantal, Salers or Laguiole.
 Those cheeses are made from lightly warmed and pressed curd and aged for 6 months to 1 year.
-Tomme fraiche is the fresh version of these cheeses before salting and aging.
+Tome fraiche is the fresh version of these cheeses before salting and aging.
 
-But where could I find *tomme fraiche* in Boston?
+But where could I find *tome fraiche* in Boston?
 
 That's how I decided to make it myself!
 <!--excerpt.end-->
@@ -95,7 +96,7 @@ Take a handful of curd and close your hand without pressing. When you open your 
 If the test does not pass continue stirring for another 10 minutes and do the test again. 
 When the curd is ready let it fall on the bottom of the pot for about 10 minutes.
 
-![tomme fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_curd.JPG)
+![tome fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_curd.JPG)
 *Curd is ready to drain*
 
 **Time: 2:30 +/- 1h**
@@ -122,12 +123,12 @@ Pour it into the water again and stretch it again. You should be able to stretch
 If it does not stretch then the curd is not ready. Leave it at room temperature for another 30min-1h.
 Then re-do the test.
 
-You can now use your tomme fraiche to make aligot!
+You can now use your tome fraiche to make aligot!
 If you cannot use it right away, put it into your fridge for maximum 2-3 days.
 It continues to ferment in the fridge, but a lot slowlier than at room temperature.
 
-![tomme fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_cut.JPG)
-*Tomme fraiche half-cut*
+![tome fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_cut.JPG)
+*Tome fraiche half-cut*
 
 You can now prepare aligot et enjoy it!
 The recipe is given [here]({{site.baseurl}}/2019/05/15/aligot-potatoes.html)

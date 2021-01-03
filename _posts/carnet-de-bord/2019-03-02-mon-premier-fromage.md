@@ -3,6 +3,7 @@ layout: post
 title: Mon tout premier fromage
 subtitle: S'amuser avec du lait cru, du fromage de chèvre et de la présure
 image: /assets/img/cheese/2019-03/first-cheese-excerpt.JPG
+image-title: fromage fait maison
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: first-cheese
 lang: FR

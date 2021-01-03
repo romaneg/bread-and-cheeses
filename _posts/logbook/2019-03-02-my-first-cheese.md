@@ -3,6 +3,7 @@ layout: post
 title: My very first cheese
 subtitle: Playing with raw milk, goat cheese and rennet
 image: /assets/img/cheese/2019-03/first-cheese-excerpt.JPG
+image-title: make cheese at home
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: first-cheese
 lang: EN

@@ -3,6 +3,7 @@ layout: post
 title: Du lait fermenté comme culture d'amorcage
 subtitle: Faire son levain de lait pour faire ses fromages
 image: /assets/img/cheese/2019-06/clabber-starter_square.jpg
+image-title: faire son levain de lait maison
 permalink: /:categories/:year/:month/:day/:title:output_ext
 tags: [bases, ingredients, cultures, ferments]
 ref: clabber

@@ -1,27 +1,28 @@
 ---
 layout: post
-title: Tomme fraîche
+title: Tome fraîche
 subtitle: Et si on faisait de l'aligot ?
 image: /assets/img/cheese/2019-04/fresh-tomme_cut_square.JPG
+image-title: faire de la tome fraîche pour l'aligot
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: fresh-tomme
 lang: FR
-tags: [carnet-de-bord, fromage, tomme, cantal, aligot, recette]
+tags: [carnet-de-bord, fromage, tomme, tome, cantal, aligot, recette]
 ---
 
-![tomme fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme.JPG)
+![tome fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme.JPG)
 
 <!--excerpt.start-->
 Quand on me demande ce qui me manque aux Etats-Unis en termes de nourriture, je sais rarement quoi répondre parce que je trouve à peu près tout ce dont j'ai besoin (eh oui on trouve de très bons fromages aux Etats-Unis !). 
 Et puis si je ne trouve pas ce que je cherche, je le fais maison (croissants, brioches, pain, etc.) !
 
 Un jour j’eus envie de manger une purée d’aligot, cette magnifique puree elastique au gout legerement acidule.
-Mais où trouver de la tomme fraiche de l'Aubrac ? 
+Mais où trouver de la tome fraiche de l'Aubrac ? 
 Qu’à cela ne tienne, pourquoi ne pas la fabriquer moi-même ! 
 <!--excerpt.end-->
 
-La tomme fraiche est issue de la fabrication du Cantal, du Salers ou du Laguiole, fromages du Massif Central.
-Ces fromages sont réalisés à partir de caillé pressé et fermenté. La tomme fraiche n'est ni salée ni affinée. 
+La tome fraiche est issue de la fabrication du Cantal, du Salers ou du Laguiole, fromages du Massif Central.
+Ces fromages sont réalisés à partir de caillé pressé et fermenté. La tome fraiche n'est ni salée ni affinée. 
 Elle est fermentée assez de temps pour atteindre des propriétés élastiques exceptionnelles (un peu comme la mozzarelle).
 
 Les points clés pour obtenir un fromage bien filant sont les suivants:
@@ -100,7 +101,7 @@ Pour tester la fermeté, prenez une poignée de caillés dans la main, les grain
 Laissez ensuite le caillé retomber dans le fond de la casserole.
 Cela va vous permettre d'évacuer le petit lait facilement au moment de l'égouttage et au caillé de prendre forme.
 
-![tomme fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_curd.JPG)
+![tome fraiche]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_curd.JPG)
 *Le caillé est prêt à égoutter*
 
 **Temps : 2:30 +/- 1h**
@@ -122,21 +123,21 @@ La fermentation du fromage fait augmenter l'acidité du caillé et donc diminuer
 Si vous avez un pH-mètre vous pouvez l'utiliser pour tester l'acidité du caillé. 
 Cependant il existe un test bien plus efficace.
 
-![Test d'étirement de la tomme fraiche]({{site.baseurl}}/assets/img/cheese/2019-05/stretch-curd-aligot.jpg)
+![Test d'étirement de la tome fraiche]({{site.baseurl}}/assets/img/cheese/2019-05/stretch-curd-aligot.jpg)
 *Testez si votre fromage s'étire*
 
 Coupez un petit morceau de caillé et plongez le pendant 1-2 minutes dans un verre d'eau bouillante.
 Etirez ce morceau avec les doigts, replongez le dans l'eau chaude et étirez à nouveau, le caillé doit commencer à s'étirer facilement.
 Répétez plusieurs fois, vous devez pouvoir former un très long fil (voir photo ci-dessus).
-Si c'est le cas, votre tomme est prête pour faire l'aligot !
+Si c'est le cas, votre tome est prête pour faire l'aligot !
 Sinon, attendez 30min-1h et répétez le test jusqu'à réussite.
 
 Si vous ne pouvez pas l'utiliser tout de suite, emballez-le et mettez-le au frigo.
 Utilisez le dans les 3-4 jours maximum (plus vous attendez et plus l'élasticité diminue car le fromage continue à fermenter au frigo).
 Vous pouvez utiliser le meme test mentionné précédemment pour savoir si votre fromage file toujours.
 
-![tomme fraiche coupée en deux]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_cut.JPG)
-*Tomme fraiche coupée en deux*
+![tome fraiche coupée en deux]({{site.baseurl}}/assets/img/cheese/2019-04/fresh-tomme_cut.JPG)
+*Tome fraiche coupée en deux*
 
 Maintenant vous pouvez réaliser votre aligot et vous régaler ! 
 Voir la recette [ici]({{site.baseurl}}/2019/05/15/aligot.html).

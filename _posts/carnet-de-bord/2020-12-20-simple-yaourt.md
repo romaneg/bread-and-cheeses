@@ -3,6 +3,7 @@ layout: post
 title: Yaourt maison sans effort
 subtitle: Une recette simple, sans yaourtière, sans lait en poudre
 image: /assets/img/cheese/2020-12/yaourt-epais_square.jpg
+image-title: recette de yaourt maison facile
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: simple-yaourt
 lang: FR

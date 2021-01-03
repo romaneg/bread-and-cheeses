@@ -3,6 +3,7 @@ layout: post
 title: Minimal starting kit to make cheese at home
 subtitle: Start making cheese for a few dozen of dollars
 image: /assets/img/cheese/2019-03/starter-kit-en.jpg
+image-title: material to make cheese at home
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: starter-kit
 lang: EN

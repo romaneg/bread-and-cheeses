@@ -3,6 +3,7 @@ layout: post
 title: A simple homemade yogurt recipe
 subtitle: No yogurt maker, no milk powder
 image: /assets/img/cheese/2020-12/yaourt-epais_square.jpg
+image-title: make yogurt at home
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: simple-yaourt
 lang: EN

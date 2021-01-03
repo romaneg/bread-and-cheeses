@@ -3,6 +3,7 @@ layout: post
 title: Comment le lait se transforme-t-il en fromage?
 subtitle: Comprendre la coagulation du lait
 image: /assets/img/cheese/2019-05/casein-micelle-microscope_square.jpg
+image-title: micelle de caséine
 permalink: /:categories/:year/:month/:day/:title:output_ext
 tags: [bases, fromage, lait, caillé, coagulation, chimie]
 ref: milk-coagulation

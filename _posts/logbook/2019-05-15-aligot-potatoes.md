@@ -3,6 +3,7 @@ layout: post
 title: Homemade aligot
 subtitle: Stretched mashed potatoes, a specialty from the center of France
 image: /assets/img/cheese/2019-05/puree-aligot_square.jpg
+image-title: make tome fraiche for homemade aligot
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: aligot
 lang: EN

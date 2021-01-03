@@ -3,6 +3,7 @@ layout: post
 title: Soft-ripened "croûte fleurie" cheese
 subtitle: A base recipe that offers a range of possibilities
 image: /assets/img/cheese/2019-12/soft-ripened-cheese_square.JPG
+image-title: homemade soft-ripened cheese
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: soft-creamy-cheese
 lang: EN

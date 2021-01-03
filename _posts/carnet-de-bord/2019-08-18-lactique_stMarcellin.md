@@ -3,6 +3,7 @@ layout: post
 title: Fromages type Saint-Marcellin fait maison
 subtitle: Fromage lactique étape par étape
 image: /assets/img/cheese/2019-08/2019-06-09_crottin_square.JPG
+image-title: recette de saint-Marcelling maison
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: lactic-cheese
 lang: FR

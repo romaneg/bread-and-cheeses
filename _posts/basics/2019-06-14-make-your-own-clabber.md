@@ -3,6 +3,7 @@ layout: post
 title: Make your own clabber
 subtitle: A simple cheese starter from raw milk
 image: /assets/img/cheese/2019-06/clabber-starter_square.jpg
+image-title: make your clabber at home
 permalink: /:categories/:year/:month/:day/:title:output_ext
 tags: [basics, ingredients, cultures, clabber, starter]
 ref: clabber

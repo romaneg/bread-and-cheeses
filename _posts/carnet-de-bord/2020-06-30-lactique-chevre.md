@@ -3,6 +3,7 @@ layout: post
 title: Fromage de chèvre lactique
 subtitle: Un fromage à deguster à toutes les étapes de fabrication
 image: /assets/img/cheese/2020-06/lactic-goat-cheese_SQUARE.jpg
+image-title: recette de fromage de chèvre maison
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: lactic-goat-cheese
 lang: FR

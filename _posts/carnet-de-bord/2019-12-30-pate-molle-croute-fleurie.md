@@ -3,6 +3,7 @@ layout: post
 title: Pâte molle à croûte fleurie
 subtitle: Une recette aux multiples variantes
 image: /assets/img/cheese/2019-12/soft-ripened-cheese_square.JPG
+image-title: recette de pâte molle maison
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: soft-creamy-cheese
 lang: FR

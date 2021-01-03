@@ -3,6 +3,7 @@ layout: post
 title: Homemade cream cheese
 subtitle: Only milk and cream
 image: /assets/img/cheese/2019-08/homemade-cream-cheese-square.JPG
+image-title: make cream cheese at home
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: cream-cheese
 lang: EN

@@ -3,6 +3,7 @@ layout: post
 title: Lactic goat cheese
 subtitle: A cheese you can eat at any aging step
 image: /assets/img/cheese/2020-06/lactic-goat-cheese_SQUARE.jpg
+image-title: homemade chevre cheese
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: lactic-goat-cheese
 lang: EN

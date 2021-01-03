@@ -3,6 +3,7 @@ layout: post
 title: Making cheese curd with rennet
 subtitle: The base of most cow cheeses
 image: /assets/img/cheese/2019-04/curd-draining_square.JPG
+image-title: how to make cheese curd at home
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: rennet-curd
 lang: EN

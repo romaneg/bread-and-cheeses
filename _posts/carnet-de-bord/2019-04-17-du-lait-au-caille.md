@@ -3,6 +3,7 @@ layout: post
 title: Du lait au caillé présuré
 subtitle: La recette de base de la plupart des fromages de vache
 image: /assets/img/cheese/2019-04/curd-draining_square.JPG
+image-title: fabrication du caillé
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: rennet-curd
 lang: FR

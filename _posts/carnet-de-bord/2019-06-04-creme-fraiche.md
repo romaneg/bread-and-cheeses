@@ -3,6 +3,7 @@ layout: post
 title: Faire de la crème fraîche
 subtitle: C'est juste de la crème fermentée !
 image: /assets/img/cheese/2019-06/creme-fraiche_square.JPG
+image-title: recette de crème fraîche maison
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: creme-fraiche
 lang: FR

@@ -3,6 +3,7 @@ layout: post
 title: Qu'est-ce que les ferments d'amorcage ?
 subtitle: Ferments industriels et ferments traditionnels, quelle différence ?
 image: /assets/img/cheese/2019-06/kefir-grains_square.JPG
+image-title: grains de kéfir
 permalink: /:categories/:year/:month/:day/:title:output_ext
 tags: [bases, ingredients, cultures, ferments, kefir, clabber]
 ref: starter-cultures

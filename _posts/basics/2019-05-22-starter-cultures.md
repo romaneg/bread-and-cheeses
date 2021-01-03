@@ -3,6 +3,7 @@ layout: post
 title: What are starter cultures?
 subtitle: Industrial cultures vs endogenous/homegrown cultures
 image: /assets/img/cheese/2019-06/kefir-grains_square.JPG
+image-title: kefir grains
 permalink: /:categories/:year/:month/:day/:title:output_ext
 tags: [basics, ingredients, cultures, kefir, clabber, starter]
 ref: starter-cultures

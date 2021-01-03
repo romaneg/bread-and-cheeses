@@ -3,6 +3,7 @@ layout: post
 title: Make your own crème fraîche
 subtitle: The simplest recipe ever!
 image: /assets/img/cheese/2019-06/creme-fraiche_square.JPG
+image-title: homemade crème fraîche
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ref: creme-fraiche
 lang: EN
