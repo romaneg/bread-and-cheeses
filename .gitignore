@@ -1,6 +1,6 @@
 .idea/
 .jekyll-metadata
-_site/
+ehthumbs.db
 *.svg
 *.png
 *.pptx
